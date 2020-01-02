@@ -1,0 +1,110 @@
+Condition	experiment_abbreviated	total	GSE_dataset
+Autophagy-coding genes	F30_P0	3	GSE9423
+Chaperone-coding genes	F30_P0	5	GSE9423
+Lipid metabolism-coding genes	F30_P0	16	GSE9423
+Proteostasis-coding genes	F30_P0	4	GSE9423
+Autophagy-coding genes	F30_P30	25	GSE9423
+Chaperone-coding genes	F30_P30	45	GSE9423
+Lipid metabolism-coding genes	F30_P30	98	GSE9423
+Proteostasis-coding genes	F30_P30	35	GSE9423
+Autophagy-coding genes	F30_P8	28	GSE9423
+Chaperone-coding genes	F30_P8	44	GSE9423
+Lipid metabolism-coding genes	F30_P8	99	GSE9423
+Proteostasis-coding genes	F30_P8	31	GSE9423
+Autophagy-coding genes	F60_P0	4	GSE9423
+Chaperone-coding genes	F60_P0	6	GSE9423
+Lipid metabolism-coding genes	F60_P0	22	GSE9423
+Proteostasis-coding genes	F60_P0	4	GSE9423
+Autophagy-coding genes	F60_P30	29	GSE9423
+Chaperone-coding genes	F60_P30	46	GSE9423
+Lipid metabolism-coding genes	F60_P30	102	GSE9423
+Proteostasis-coding genes	F60_P30	37	GSE9423
+Autophagy-coding genes	F60_P8	26	GSE9423
+Chaperone-coding genes	F60_P8	50	GSE9423
+Lipid metabolism-coding genes	F60_P8	106	GSE9423
+Proteostasis-coding genes	F60_P8	35	GSE9423
+Chaperone-coding genes	F8_P0	5	GSE9423
+Lipid metabolism-coding genes	F8_P0	11	GSE9423
+Proteostasis-coding genes	F8_P0	4	GSE9423
+Autophagy-coding genes	F8_P30	27	GSE9423
+Chaperone-coding genes	F8_P30	46	GSE9423
+Lipid metabolism-coding genes	F8_P30	92	GSE9423
+Proteostasis-coding genes	F8_P30	34	GSE9423
+Autophagy-coding genes	F8_P8	31	GSE9423
+Chaperone-coding genes	F8_P8	48	GSE9423
+Lipid metabolism-coding genes	F8_P8	89	GSE9423
+Proteostasis-coding genes	F8_P8	34	GSE9423
+Autophagy-coding genes	F102_P0	6	GSE10205_GSE16376
+Chaperone-coding genes	F102_P0	4	GSE10205_GSE16376
+Lipid metabolism-coding genes	F102_P0	20	GSE10205_GSE16376
+Proteostasis-coding genes	F102_P0	5	GSE10205_GSE16376
+Autophagy-coding genes	F102_P30	35	GSE10205_GSE16376
+Chaperone-coding genes	F102_P30	49	GSE10205_GSE16376
+Lipid metabolism-coding genes	F102_P30	107	GSE10205_GSE16376
+Proteostasis-coding genes	F102_P30	35	GSE10205_GSE16376
+Autophagy-coding genes	F102_P4	2	GSE10205_GSE16376
+Chaperone-coding genes	F102_P4	6	GSE10205_GSE16376
+Lipid metabolism-coding genes	F102_P4	11	GSE10205_GSE16376
+Proteostasis-coding genes	F102_P4	3	GSE10205_GSE16376
+Autophagy-coding genes	F102_P8	32	GSE10205_GSE16376
+Chaperone-coding genes	F102_P8	49	GSE10205_GSE16376
+Lipid metabolism-coding genes	F102_P8	116	GSE10205_GSE16376
+Proteostasis-coding genes	F102_P8	33	GSE10205_GSE16376
+Autophagy-coding genes	F30_P0	3	GSE10205_GSE16376
+Chaperone-coding genes	F30_P0	8	GSE10205_GSE16376
+Lipid metabolism-coding genes	F30_P0	17	GSE10205_GSE16376
+Proteostasis-coding genes	F30_P0	10	GSE10205_GSE16376
+Autophagy-coding genes	F30_P30	33	GSE10205_GSE16376
+Chaperone-coding genes	F30_P30	50	GSE10205_GSE16376
+Lipid metabolism-coding genes	F30_P30	105	GSE10205_GSE16376
+Proteostasis-coding genes	F30_P30	37	GSE10205_GSE16376
+Autophagy-coding genes	F30_P4	1	GSE10205_GSE16376
+Chaperone-coding genes	F30_P4	1	GSE10205_GSE16376
+Lipid metabolism-coding genes	F30_P4	2	GSE10205_GSE16376
+Autophagy-coding genes	F30_P8	29	GSE10205_GSE16376
+Chaperone-coding genes	F30_P8	47	GSE10205_GSE16376
+Lipid metabolism-coding genes	F30_P8	109	GSE10205_GSE16376
+Proteostasis-coding genes	F30_P8	32	GSE10205_GSE16376
+Autophagy-coding genes	F60_P0	4	GSE10205_GSE16376
+Chaperone-coding genes	F60_P0	5	GSE10205_GSE16376
+Lipid metabolism-coding genes	F60_P0	24	GSE10205_GSE16376
+Proteostasis-coding genes	F60_P0	6	GSE10205_GSE16376
+Autophagy-coding genes	F60_P30	33	GSE10205_GSE16376
+Chaperone-coding genes	F60_P30	47	GSE10205_GSE16376
+Lipid metabolism-coding genes	F60_P30	108	GSE10205_GSE16376
+Proteostasis-coding genes	F60_P30	35	GSE10205_GSE16376
+Autophagy-coding genes	F60_P4	1	GSE10205_GSE16376
+Chaperone-coding genes	F60_P4	1	GSE10205_GSE16376
+Lipid metabolism-coding genes	F60_P4	12	GSE10205_GSE16376
+Autophagy-coding genes	F60_P8	36	GSE10205_GSE16376
+Chaperone-coding genes	F60_P8	52	GSE10205_GSE16376
+Lipid metabolism-coding genes	F60_P8	115	GSE10205_GSE16376
+Proteostasis-coding genes	F60_P8	35	GSE10205_GSE16376
+Autophagy-coding genes	F8_P0	1	GSE10205_GSE16376
+Chaperone-coding genes	F8_P0	8	GSE10205_GSE16376
+Lipid metabolism-coding genes	F8_P0	11	GSE10205_GSE16376
+Proteostasis-coding genes	F8_P0	6	GSE10205_GSE16376
+Autophagy-coding genes	F8_P30	32	GSE10205_GSE16376
+Chaperone-coding genes	F8_P30	49	GSE10205_GSE16376
+Lipid metabolism-coding genes	F8_P30	98	GSE10205_GSE16376
+Proteostasis-coding genes	F8_P30	38	GSE10205_GSE16376
+Autophagy-coding genes	F8_P8	34	GSE10205_GSE16376
+Chaperone-coding genes	F8_P8	46	GSE10205_GSE16376
+Lipid metabolism-coding genes	F8_P8	102	GSE10205_GSE16376
+Proteostasis-coding genes	F8_P8	33	GSE10205_GSE16376
+Autophagy-coding genes	F80_P0	8	GSE10205_GSE16376
+Chaperone-coding genes	F80_P0	5	GSE10205_GSE16376
+Lipid metabolism-coding genes	F80_P0	30	GSE10205_GSE16376
+Proteostasis-coding genes	F80_P0	5	GSE10205_GSE16376
+Autophagy-coding genes	F80_P30	33	GSE10205_GSE16376
+Chaperone-coding genes	F80_P30	47	GSE10205_GSE16376
+Lipid metabolism-coding genes	F80_P30	108	GSE10205_GSE16376
+Proteostasis-coding genes	F80_P30	35	GSE10205_GSE16376
+Autophagy-coding genes	F80_P4	2	GSE10205_GSE16376
+Chaperone-coding genes	F80_P4	5	GSE10205_GSE16376
+Lipid metabolism-coding genes	F80_P4	11	GSE10205_GSE16376
+Proteostasis-coding genes	F80_P4	1	GSE10205_GSE16376
+Autophagy-coding genes	F80_P8	36	GSE10205_GSE16376
+Chaperone-coding genes	F80_P8	52	GSE10205_GSE16376
+Lipid metabolism-coding genes	F80_P8	115	GSE10205_GSE16376
+Proteostasis-coding genes	F80_P8	35	GSE10205_GSE16376
