@@ -1,0 +1,278 @@
+Condition	DEG_type	Feature	mean_logFC	SD	n
+Autophagy-coding genes	Overexpressed DEG	APE1	2.29568717286417	0.18225189843401	14
+Autophagy-coding genes	Overexpressed DEG	ATG1	2.30477392925464	0.250652896283366	2
+Autophagy-coding genes	Overexpressed DEG	ATG15	2.17985535024828	0.16979042114137	2
+Autophagy-coding genes	Overexpressed DEG	ATG16	2.29446512321267	0.392921435164156	2
+Autophagy-coding genes	Overexpressed DEG	ATG18	2.72902084432428	0.367515454903151	12
+Autophagy-coding genes	Overexpressed DEG	ATG19	2.41569594780215	0.200929991785021	8
+Autophagy-coding genes	Overexpressed DEG	ATG33	2.39090563410157	0.252104702194871	13
+Autophagy-coding genes	Overexpressed DEG	ATG34	3.54949743764161	1.13674088397625	12
+Autophagy-coding genes	Overexpressed DEG	ATG38	2.35304127771051	0.184417876362074	6
+Autophagy-coding genes	Overexpressed DEG	ATG39	2.23907830325978	0.1277029126375	2
+Autophagy-coding genes	Overexpressed DEG	ATG41	3.18603825272819	1.08927102505842	16
+Autophagy-coding genes	Overexpressed DEG	ATG5	2.11630343576672	0.04157714157653	3
+Autophagy-coding genes	Overexpressed DEG	ATG8	2.31554927382086	0.259405126859391	12
+Autophagy-coding genes	Overexpressed DEG	ATP10	2.297847600571	NA	1
+Autophagy-coding genes	Overexpressed DEG	BCK1	2.48880890224232	0.324447048388888	6
+Autophagy-coding genes	Overexpressed DEG	COG2	2.39425038130562	0.225564822498338	4
+Autophagy-coding genes	Overexpressed DEG	COG3	2.01591817952366	0	2
+Autophagy-coding genes	Overexpressed DEG	CUE5	2.42515159007643	0.28595522623998	10
+Autophagy-coding genes	Overexpressed DEG	FIS1	4.500391551391	0.521980755895009	16
+Autophagy-coding genes	Overexpressed DEG	GCD7	2.29330943082691	0.151737207420671	13
+Autophagy-coding genes	Overexpressed DEG	GCN4	2.27419954038702	0.217904702242409	8
+Autophagy-coding genes	Overexpressed DEG	HSV2	2.22349448799337	0.224336069548846	8
+Autophagy-coding genes	Overexpressed DEG	MID2	2.43204631467978	0.413458353022392	2
+Autophagy-coding genes	Overexpressed DEG	PEP4	3.9631771652757	0.22510245882259	16
+Autophagy-coding genes	Overexpressed DEG	SCM4	2.17726087307751	0.182880976591772	4
+Autophagy-coding genes	Overexpressed DEG	SEC17	3.78449808956891	0.265172992985357	16
+Autophagy-coding genes	Overexpressed DEG	SEC2	2.16939833950869	0	2
+Autophagy-coding genes	Overexpressed DEG	SEC4	2.99506662890907	0.663104857084	15
+Autophagy-coding genes	Overexpressed DEG	SEC7	3.15818058952194	0.492823111525242	16
+Autophagy-coding genes	Overexpressed DEG	SLT2	2.43569967830577	0.207607142565572	4
+Autophagy-coding genes	Overexpressed DEG	SNX4	2.20897067527451	NA	1
+Autophagy-coding genes	Overexpressed DEG	SPT10	2.00850608974123	NA	1
+Autophagy-coding genes	Overexpressed DEG	SPT4	2.24656364756145	0.153562150003825	4
+Autophagy-coding genes	Overexpressed DEG	TRS120	2.62535163346689	0.318942121166082	15
+Autophagy-coding genes	Overexpressed DEG	UTH1	2.20640332791393	0.210674716455187	2
+Autophagy-coding genes	Overexpressed DEG	VPS21	2.03553150830276	NA	1
+Autophagy-coding genes	Overexpressed DEG	WHI2	3.71928684914849	1.07211119069473	16
+Autophagy-coding genes	Overexpressed DEG	YOP1	2.14927145551315	NA	1
+Autophagy-coding genes	Overexpressed DEG	YPT1	3.29434784338481	0.205588066883304	16
+Autophagy-coding genes	Overexpressed DEG	YPT31	4.14511818010139	0.972533282334664	16
+Autophagy-coding genes	Overexpressed DEG	YPT52	2.25157150851653	0.19644367786648	9
+Autophagy-coding genes	Overexpressed DEG	YPT6	2.36217167650175	0.344176407596905	7
+Lipid metabolism-coding genes	Overexpressed DEG	ACB1	3.80974120643189	0.458950641478123	16
+Lipid metabolism-coding genes	Overexpressed DEG	ACC1	3.13408567301786	0.769300442526578	22
+Lipid metabolism-coding genes	Overexpressed DEG	ACH1	2.57576035774745	0.429788790370868	17
+Lipid metabolism-coding genes	Overexpressed DEG	ACO1	2.42757431987072	0.165031529592287	10
+Lipid metabolism-coding genes	Overexpressed DEG	ACP1	3.53474685731506	0.393194118926694	16
+Lipid metabolism-coding genes	Overexpressed DEG	ADR1	2.20299939496589	0.201186200749112	3
+Lipid metabolism-coding genes	Overexpressed DEG	AIM45	2.97589801133939	0.525442796937516	16
+Lipid metabolism-coding genes	Overexpressed DEG	ALD4	2.29447885379908	0.15768294496212	7
+Lipid metabolism-coding genes	Overexpressed DEG	ALD5	2.43198429662373	0.301353904812027	6
+Lipid metabolism-coding genes	Overexpressed DEG	ALE1	2.53441040302914	0.16621207996772	5
+Lipid metabolism-coding genes	Overexpressed DEG	ALT1	2.79633466127639	0.394212092218982	7
+Lipid metabolism-coding genes	Overexpressed DEG	ARE1	2.5424126326248	0.522334567479854	11
+Lipid metabolism-coding genes	Overexpressed DEG	ARE2	2.22205356072408	NA	1
+Lipid metabolism-coding genes	Overexpressed DEG	ARG5,6	3.33908796211435	0.704843768434431	13
+Lipid metabolism-coding genes	Overexpressed DEG	ARV1	2.77156199499708	0.463966261967851	11
+Lipid metabolism-coding genes	Overexpressed DEG	BOL1	2.0376461507034	0.00103928018975378	3
+Lipid metabolism-coding genes	Overexpressed DEG	BOL3	3.54070747095168	0.601836097475001	16
+Lipid metabolism-coding genes	Overexpressed DEG	CAT2	2.97017673251799	0.531611521004297	20
+Lipid metabolism-coding genes	Overexpressed DEG	CCP1	2.95807422753565	0.54026245532281	13
+Lipid metabolism-coding genes	Overexpressed DEG	CEM1	3.82801093949788	0.627657613604588	16
+Lipid metabolism-coding genes	Overexpressed DEG	CHO1	2.18792648209789	0.237660676207263	8
+Lipid metabolism-coding genes	Overexpressed DEG	CHO2	2.58063222886233	0.348488541136903	7
+Lipid metabolism-coding genes	Overexpressed DEG	CIR1	2.49646411178422	0.340967064349188	8
+Lipid metabolism-coding genes	Overexpressed DEG	CIT1	2.49470232123201	0.321570384244573	16
+Lipid metabolism-coding genes	Overexpressed DEG	COX14	2.24028014946923	0.177912171187173	4
+Lipid metabolism-coding genes	Overexpressed DEG	CRC1	2.66714662141757	0.380568091099428	3
+Lipid metabolism-coding genes	Overexpressed DEG	CSR1	2.94070140134151	0.09049672923724	5
+Lipid metabolism-coding genes	Overexpressed DEG	CTA1	3.31979751437444	0.803644114014449	22
+Lipid metabolism-coding genes	Overexpressed DEG	DAP1	2.25441319014763	0.199017161782503	7
+Lipid metabolism-coding genes	Overexpressed DEG	DCI1	2.37051820149386	0.234973457756591	3
+Lipid metabolism-coding genes	Overexpressed DEG	DLD2	2.38088836317241	0.156939765699491	7
+Lipid metabolism-coding genes	Overexpressed DEG	DPL1	2.32731657116929	0.228781449732961	8
+Lipid metabolism-coding genes	Overexpressed DEG	ECM22	2.41771923515046	0.252964306851657	8
+Lipid metabolism-coding genes	Overexpressed DEG	EEB1	3.89322902085174	1.13868027465425	22
+Lipid metabolism-coding genes	Overexpressed DEG	ERG1	2.28134107017334	0.302156973083194	8
+Lipid metabolism-coding genes	Overexpressed DEG	ERG10	4.90254814296206	0.703097744176373	32
+Lipid metabolism-coding genes	Overexpressed DEG	ERG2	2.78405797589431	0.459617592288151	16
+Lipid metabolism-coding genes	Overexpressed DEG	ERG20	2.13096534952456	0.101938597510348	8
+Lipid metabolism-coding genes	Overexpressed DEG	ERG24	2.59102726367402	0.350029708160855	13
+Lipid metabolism-coding genes	Overexpressed DEG	ERG25	2.4149758592078	0.224389887643313	12
+Lipid metabolism-coding genes	Overexpressed DEG	ERG26	4.10700941242899	0.443318541453848	16
+Lipid metabolism-coding genes	Overexpressed DEG	ERG27	4.00601948878855	0.841446919367695	16
+Lipid metabolism-coding genes	Overexpressed DEG	ERG28	3.58015968373838	0.473004681491516	16
+Lipid metabolism-coding genes	Overexpressed DEG	ERG29	2.40105193359523	0.228851518223908	14
+Lipid metabolism-coding genes	Overexpressed DEG	ERG3	3.69846592254935	0.637841893231888	16
+Lipid metabolism-coding genes	Overexpressed DEG	ERG5	2.46979441601971	0.375444947177173	12
+Lipid metabolism-coding genes	Overexpressed DEG	ERG6	3.74140229971006	0.327349409603848	16
+Lipid metabolism-coding genes	Overexpressed DEG	ERG8	4.55380240408918	0.443211460859068	32
+Lipid metabolism-coding genes	Overexpressed DEG	ERG9	2.17615791049324	0.0809143819224999	7
+Lipid metabolism-coding genes	Overexpressed DEG	ETR1	2.21646928491709	0.12380507756775	3
+Lipid metabolism-coding genes	Overexpressed DEG	FAA2	3.20402587596077	0.796154081655908	17
+Lipid metabolism-coding genes	Overexpressed DEG	FAA4	3.69673166752818	0.909742617981485	14
+Lipid metabolism-coding genes	Overexpressed DEG	FAS1	2.51493091350927	0.209108669631921	8
+Lipid metabolism-coding genes	Overexpressed DEG	FAS2	2.8813983276806	0.409042941203003	24
+Lipid metabolism-coding genes	Overexpressed DEG	FAT3	3.54591115934268	0.84036051453893	28
+Lipid metabolism-coding genes	Overexpressed DEG	FOX2	2.2561092723578	0.195773390148602	2
+Lipid metabolism-coding genes	Overexpressed DEG	GLO4	2.29177667973648	0.33367053833812	4
+Lipid metabolism-coding genes	Overexpressed DEG	GPT2	2.27417101709599	0.0873483201419509	6
+Lipid metabolism-coding genes	Overexpressed DEG	GRE2	2.42534908188277	0.148801269352624	4
+Lipid metabolism-coding genes	Overexpressed DEG	GRS1	2.85434785714944	0.426257285869756	16
+Lipid metabolism-coding genes	Overexpressed DEG	GUT1	4.11576593125197	0.913035853773159	17
+Lipid metabolism-coding genes	Overexpressed DEG	HEM1	2.07047979538249	NA	1
+Lipid metabolism-coding genes	Overexpressed DEG	HES1	2.2326952353903	0.0224126937843704	2
+Lipid metabolism-coding genes	Overexpressed DEG	HFD1	2.69421559605875	0.462955892973505	17
+Lipid metabolism-coding genes	Overexpressed DEG	HMG1	4.35049647116207	0.742911281600037	17
+Lipid metabolism-coding genes	Overexpressed DEG	HMG2	2.31114844468784	0.217771386002737	7
+Lipid metabolism-coding genes	Overexpressed DEG	HSP60	2.5589895783284	0.378022105438261	16
+Lipid metabolism-coding genes	Overexpressed DEG	HSP78	2.17054042396442	0.122438140496038	5
+Lipid metabolism-coding genes	Overexpressed DEG	ICL2	2.67550883038043	0.450384814704387	15
+Lipid metabolism-coding genes	Overexpressed DEG	ICT1	2.80107546039488	0.434296424713851	16
+Lipid metabolism-coding genes	Overexpressed DEG	IDH1	2.52524178360395	0.350355602601974	15
+Lipid metabolism-coding genes	Overexpressed DEG	IDH2	3.17776088127135	0.444737718056404	16
+Lipid metabolism-coding genes	Overexpressed DEG	IDP3	2.48220368093189	0.130488859632567	3
+Lipid metabolism-coding genes	Overexpressed DEG	IFA38	2.42731227073498	0.275561031050791	6
+Lipid metabolism-coding genes	Overexpressed DEG	INO1	2.79372331826253	0.293509140405107	16
+Lipid metabolism-coding genes	Overexpressed DEG	INO2	2.92264625099086	0.629225814327895	5
+Lipid metabolism-coding genes	Overexpressed DEG	ISA2	2.21978197018565	0.0886991349587772	8
+Lipid metabolism-coding genes	Overexpressed DEG	ISM1	2.27918645300443	0.176992234903231	7
+Lipid metabolism-coding genes	Overexpressed DEG	ISU1	3.23082400763395	0.424664818244758	16
+Lipid metabolism-coding genes	Overexpressed DEG	IZH2	2.65136946506789	0.492871880684367	8
+Lipid metabolism-coding genes	Overexpressed DEG	IZH4	3.19984649745083	0.742825482726459	10
+Lipid metabolism-coding genes	Overexpressed DEG	JAC1	2.04309479937531	0.0243629814606491	5
+Lipid metabolism-coding genes	Overexpressed DEG	LAT1	2.83963206389839	0.259463557712215	16
+Lipid metabolism-coding genes	Overexpressed DEG	LPD1	2.12297022079493	0.0495317592809791	2
+Lipid metabolism-coding genes	Overexpressed DEG	MAE1	3.26452187636012	0.386030580737371	4
+Lipid metabolism-coding genes	Overexpressed DEG	MAS1	2.58031032174586	0.27638832810014	9
+Lipid metabolism-coding genes	Overexpressed DEG	MDH1	2.30545504087547	0.199309441644661	10
+Lipid metabolism-coding genes	Overexpressed DEG	MDH3	3.13826020577216	0.268261163533484	16
+Lipid metabolism-coding genes	Overexpressed DEG	MDJ1	2.90059788792732	0.303648360775428	8
+Lipid metabolism-coding genes	Overexpressed DEG	MGA2	2.4585226745298	0.284720113242812	17
+Lipid metabolism-coding genes	Overexpressed DEG	MGE1	2.12976426154902	NA	1
+Lipid metabolism-coding genes	Overexpressed DEG	MOT3	2.60135584398048	0.305692241077944	12
+Lipid metabolism-coding genes	Overexpressed DEG	MSF1	2.82792424657835	0.435302758453539	15
+Lipid metabolism-coding genes	Overexpressed DEG	MSS2	2.55656518016829	0.425023013602669	13
+Lipid metabolism-coding genes	Overexpressed DEG	MST1	2.05813882421568	NA	1
+Lipid metabolism-coding genes	Overexpressed DEG	MZM1	2.19225040906291	0.254130526859137	6
+Lipid metabolism-coding genes	Overexpressed DEG	NCP1	2.21752488963716	0.18503802416139	8
+Lipid metabolism-coding genes	Overexpressed DEG	NDI1	2.80034247499366	0.489908746471317	13
+Lipid metabolism-coding genes	Overexpressed DEG	NFU1	2.45254566829452	0.451135743558667	5
+Lipid metabolism-coding genes	Overexpressed DEG	OAR1	2.34179584816457	NA	1
+Lipid metabolism-coding genes	Overexpressed DEG	OLE1	2.12482690740425	0.0494133413357749	5
+Lipid metabolism-coding genes	Overexpressed DEG	OPI10	3.42190800771794	0.925176952331954	15
+Lipid metabolism-coding genes	Overexpressed DEG	OPI3	3.47987830831866	0.76304393017961	23
+Lipid metabolism-coding genes	Overexpressed DEG	PAH1	2.02943231427281	NA	1
+Lipid metabolism-coding genes	Overexpressed DEG	PCD1	2.5029315344252	0.264072006829649	8
+Lipid metabolism-coding genes	Overexpressed DEG	PCT1	2.18732476563701	0.133515096586953	4
+Lipid metabolism-coding genes	Overexpressed DEG	PDA1	2.65580631033707	0.302034684227769	16
+Lipid metabolism-coding genes	Overexpressed DEG	PDB1	3.0525561915252	0.325384154714556	16
+Lipid metabolism-coding genes	Overexpressed DEG	PET117	2.5245694484326	0.0599810829242852	4
+Lipid metabolism-coding genes	Overexpressed DEG	PIM1	2.2447357249021	0.139483968468619	16
+Lipid metabolism-coding genes	Overexpressed DEG	PKP1	2.77397595602034	0.377383440887831	10
+Lipid metabolism-coding genes	Overexpressed DEG	PLB2	2.07242716110082	0.0420633975066519	4
+Lipid metabolism-coding genes	Overexpressed DEG	PLC1	2.08311471636258	NA	1
+Lipid metabolism-coding genes	Overexpressed DEG	POT1	3.30608774618614	0.517985987617289	16
+Lipid metabolism-coding genes	Overexpressed DEG	POX1	2.51645321350198	0.346835252703665	9
+Lipid metabolism-coding genes	Overexpressed DEG	PPX1	2.44322440256412	0.238128606491202	8
+Lipid metabolism-coding genes	Overexpressed DEG	PUT1	3.30242348922126	0.595830067144864	10
+Lipid metabolism-coding genes	Overexpressed DEG	PXA1	2.27248225215684	0.241327610855532	5
+Lipid metabolism-coding genes	Overexpressed DEG	PXA2	2.26398515574898	0.148683340738363	6
+Lipid metabolism-coding genes	Overexpressed DEG	RRI1	2.1405043178584	0.00432619953051856	3
+Lipid metabolism-coding genes	Overexpressed DEG	SAH1	4.16568418754181	0.655300396694961	16
+Lipid metabolism-coding genes	Overexpressed DEG	SCS3	2.57926036598985	0.43162039205486	9
+Lipid metabolism-coding genes	Overexpressed DEG	SDH7	2.00497488158249	NA	1
+Lipid metabolism-coding genes	Overexpressed DEG	SEC18	2.47266271006223	0.190324051371734	16
+Lipid metabolism-coding genes	Overexpressed DEG	SOD2	2.18518502292908	0.128537088782396	5
+Lipid metabolism-coding genes	Overexpressed DEG	SPT23	2.08053930821329	NA	1
+Lipid metabolism-coding genes	Overexpressed DEG	SSC1	2.31338444808823	0.131492676348008	4
+Lipid metabolism-coding genes	Overexpressed DEG	SUV3	3.98924585496062	1.17588065155423	16
+Lipid metabolism-coding genes	Overexpressed DEG	TAM41	2.33288956191998	0.164757298042983	4
+Lipid metabolism-coding genes	Overexpressed DEG	TAZ1	2.43538965024752	0.284926910678149	10
+Lipid metabolism-coding genes	Overexpressed DEG	TES1	2.31134239130826	0.183988020311337	8
+Lipid metabolism-coding genes	Overexpressed DEG	TGL4	2.03816456165196	0.0402394785746802	2
+Lipid metabolism-coding genes	Overexpressed DEG	TML25	3.64901801232672	0.44975946690822	10
+Lipid metabolism-coding genes	Overexpressed DEG	TSC3	3.69231131647082	1.06185392709136	16
+Lipid metabolism-coding genes	Overexpressed DEG	UPC2	2.70181073520087	0.737944520552593	8
+Lipid metabolism-coding genes	Overexpressed DEG	UPS1	3.50738137022779	0.363915689784818	16
+Lipid metabolism-coding genes	Overexpressed DEG	UPS2	3.64007018719861	0.518747484614015	16
+Lipid metabolism-coding genes	Overexpressed DEG	YDC1	2.82600652750253	0.130378036488463	16
+Lipid metabolism-coding genes	Overexpressed DEG	YFH1	2.58228670356757	0.512724135023956	14
+Lipid metabolism-coding genes	Overexpressed DEG	YHB1	3.46763977487504	0.531925566631133	16
+Lipid metabolism-coding genes	Overexpressed DEG	YJU3	2.97860468929998	0.462438722321018	16
+Lipid metabolism-coding genes	Overexpressed DEG	ZIM17	2.96349505849402	0.845871582142117	14
+Proteostasis-coding genes	Overexpressed DEG	ACL4	2.88860803428959	0.436064387749092	6
+Proteostasis-coding genes	Overexpressed DEG	AFG1	2.2640471961387	0.16708057885231	7
+Proteostasis-coding genes	Overexpressed DEG	AFG3	3.27754859339203	0.247905992679364	16
+Proteostasis-coding genes	Overexpressed DEG	AHA1	2.47360895130611	0.275901833869465	22
+Proteostasis-coding genes	Overexpressed DEG	BCK1	2.48880890224232	0.324447048388888	6
+Proteostasis-coding genes	Overexpressed DEG	BCS1	2.41560299837787	0.268933309830868	16
+Proteostasis-coding genes	Overexpressed DEG	CCS1	4.49297529491718	0.826421529860967	16
+Proteostasis-coding genes	Overexpressed DEG	CNE1	2.54178410854081	0.207558293883113	5
+Proteostasis-coding genes	Overexpressed DEG	CPR5	5.27672930014385	0.326680148864329	16
+Proteostasis-coding genes	Overexpressed DEG	CPR6	2.71320095076064	0.500848910147929	22
+Proteostasis-coding genes	Overexpressed DEG	CUR1	2.64696613403922	0	2
+Proteostasis-coding genes	Overexpressed DEG	ECM10	2.36463661984184	0.4195430680612	10
+Proteostasis-coding genes	Overexpressed DEG	EDE1	3.08336071858925	0.341948229012925	16
+Proteostasis-coding genes	Overexpressed DEG	GET1	2.42538768314279	0.3352202386818	10
+Proteostasis-coding genes	Overexpressed DEG	GET2	2.73403398934066	0.271252223764047	16
+Proteostasis-coding genes	Overexpressed DEG	GET3	3.72078385585281	0.341375970087284	48
+Proteostasis-coding genes	Overexpressed DEG	GET4	2.65410773566638	0.42556645949857	11
+Proteostasis-coding genes	Overexpressed DEG	HAC1	5.17869008040908	0.364248544552114	3
+Proteostasis-coding genes	Overexpressed DEG	HCH1	2.86448512159738	0.660412733049288	28
+Proteostasis-coding genes	Overexpressed DEG	HSC82	2.51984374976782	0.086343245626166	8
+Proteostasis-coding genes	Overexpressed DEG	HSP104	2.39616141188256	0.270139438288626	42
+Proteostasis-coding genes	Overexpressed DEG	HSP26	4.37359378308709	1.22352342995501	46
+Proteostasis-coding genes	Overexpressed DEG	HSP42	2.71545068385227	0.481688024772673	38
+Proteostasis-coding genes	Overexpressed DEG	HSP60	2.5589895783284	0.378022105438261	16
+Proteostasis-coding genes	Overexpressed DEG	HSP78	2.17054042396442	0.115435785894159	10
+Proteostasis-coding genes	Overexpressed DEG	HSP82	2.38349167007942	0.344858346161151	18
+Proteostasis-coding genes	Overexpressed DEG	IRC25	2.39749949764145	0.173882104948714	28
+Proteostasis-coding genes	Overexpressed DEG	JAC1	2.04309479937531	0.0243629814606491	5
+Proteostasis-coding genes	Overexpressed DEG	KAR2	2.77490416295192	0.265106731097617	30
+Proteostasis-coding genes	Overexpressed DEG	MDJ1	2.90059788792732	0.293352186290639	16
+Proteostasis-coding genes	Overexpressed DEG	MDJ2	2.53111199796994	0.261575593571166	3
+Proteostasis-coding genes	Overexpressed DEG	MGE1	2.12976426154902	NA	1
+Proteostasis-coding genes	Overexpressed DEG	MGR2	3.63644529034331	0.706142164612253	16
+Proteostasis-coding genes	Overexpressed DEG	MID2	2.43204631467978	0.413458353022392	2
+Proteostasis-coding genes	Overexpressed DEG	MPD1	2.00724992570588	0	2
+Proteostasis-coding genes	Overexpressed DEG	MZM1	2.19225040906291	0.254130526859137	6
+Proteostasis-coding genes	Overexpressed DEG	NAP1	5.17039378701439	0.624717271207808	16
+Proteostasis-coding genes	Overexpressed DEG	ORM2	4.09181243567775	0.291668834254204	16
+Proteostasis-coding genes	Overexpressed DEG	OTU1	2.30755966123548	0.230301450562759	4
+Proteostasis-coding genes	Overexpressed DEG	PAM16	2.12852925610548	0.157149157454057	3
+Proteostasis-coding genes	Overexpressed DEG	PAM18	2.31429513852227	0.213572661288605	6
+Proteostasis-coding genes	Overexpressed DEG	PDI1	3.00327189281973	0.235927050409408	16
+Proteostasis-coding genes	Overexpressed DEG	PET100	2.2048780253375	0.222421712459234	4
+Proteostasis-coding genes	Overexpressed DEG	PHB1	2.34846105497246	0.236631707179068	8
+Proteostasis-coding genes	Overexpressed DEG	PHB2	3.21886814026618	0.365970813508398	32
+Proteostasis-coding genes	Overexpressed DEG	PHO86	2.23611264183004	0.199501655877453	7
+Proteostasis-coding genes	Overexpressed DEG	PIM1	2.2447357249021	0.139483968468619	16
+Proteostasis-coding genes	Overexpressed DEG	PMT1	2.5294031394644	0.0628893287790952	4
+Proteostasis-coding genes	Overexpressed DEG	PMT2	2.37826406248942	NA	1
+Proteostasis-coding genes	Overexpressed DEG	PTC2	4.06076039491512	1.36184861716405	15
+Proteostasis-coding genes	Overexpressed DEG	RPL5	3.33847893052816	0.372311844193741	5
+Proteostasis-coding genes	Overexpressed DEG	RRB1	2.29684095846908	NA	1
+Proteostasis-coding genes	Overexpressed DEG	RTN1	2.82425024792068	0.403601862534207	16
+Proteostasis-coding genes	Overexpressed DEG	RTN2	2.29617172054122	0.393318656004941	4
+Proteostasis-coding genes	Overexpressed DEG	RTT106	2.20105406573826	0.0935848753102588	5
+Proteostasis-coding genes	Overexpressed DEG	SBA1	6.21956152229326	0.539051440107554	32
+Proteostasis-coding genes	Overexpressed DEG	SEC18	2.47266271006223	0.190324051371734	16
+Proteostasis-coding genes	Overexpressed DEG	SGT2	2.11795416278006	0.10991494679194	12
+Proteostasis-coding genes	Overexpressed DEG	SHQ1	2.13985480327451	0	2
+Proteostasis-coding genes	Overexpressed DEG	SLT2	2.43569967830577	0.207607142565572	4
+Proteostasis-coding genes	Overexpressed DEG	SNO4	2.98814928005761	0.641101381519019	18
+Proteostasis-coding genes	Overexpressed DEG	SRP40	2.97405522034809	0.129389808757921	5
+Proteostasis-coding genes	Overexpressed DEG	SSA1	3.73905088896787	0.570382725432886	16
+Proteostasis-coding genes	Overexpressed DEG	SSA2	2.54268323867259	0.292675230833379	8
+Proteostasis-coding genes	Overexpressed DEG	SSA3	4.07799809363395	1.25471601100043	44
+Proteostasis-coding genes	Overexpressed DEG	SSA4	4.56088258957803	1.32720650262886	40
+Proteostasis-coding genes	Overexpressed DEG	SSB2	2.69777279776363	0.411016818290227	16
+Proteostasis-coding genes	Overexpressed DEG	SSC1	2.31338444808823	0.131492676348008	4
+Proteostasis-coding genes	Overexpressed DEG	SSZ1	2.91863693321969	0.235753055057713	16
+Proteostasis-coding genes	Overexpressed DEG	SYT1	2.63004791217279	0.30981004745973	8
+Proteostasis-coding genes	Overexpressed DEG	TCM62	2.3904544339881	0.244819639625048	8
+Proteostasis-coding genes	Overexpressed DEG	TIM12	2.7033052286294	0.352876691689928	14
+Proteostasis-coding genes	Overexpressed DEG	TIM13	2.01917932060937	NA	1
+Proteostasis-coding genes	Overexpressed DEG	TIM17	2.41353437189299	0.307544604702517	8
+Proteostasis-coding genes	Overexpressed DEG	TIM54	2.60170823259054	0.283661802119605	16
+Proteostasis-coding genes	Overexpressed DEG	TIM8	2.19228655261308	0.155838642105387	8
+Proteostasis-coding genes	Overexpressed DEG	TIM9	3.57351268384373	0.447149396265529	11
+Proteostasis-coding genes	Overexpressed DEG	TMA17	4.43904801447216	0.448213352360128	16
+Proteostasis-coding genes	Overexpressed DEG	TOM6	2.80916447850062	0.55543378862242	15
+Proteostasis-coding genes	Overexpressed DEG	TOM7	2.2430149532716	0.108929180619863	8
+Proteostasis-coding genes	Overexpressed DEG	TSA1	2.50127562272262	0.20372357544699	30
+Proteostasis-coding genes	Overexpressed DEG	UMP1	2.90821257746005	0.498014912047384	8
+Proteostasis-coding genes	Overexpressed DEG	VPS75	2.09595960781012	0.0110444762383829	2
+Proteostasis-coding genes	Overexpressed DEG	XDJ1	2.22832973688392	0.0940801380518608	8
+Proteostasis-coding genes	Overexpressed DEG	YAP1	2.13335708753896	0.147726729583783	4
+Proteostasis-coding genes	Overexpressed DEG	YAR1	3.62852047079528	0.0931881836818328	10
+Proteostasis-coding genes	Overexpressed DEG	YFH1	2.58228670356757	0.512724135023956	14
+Proteostasis-coding genes	Overexpressed DEG	YKE2	2.21240894709804	0.165263992058589	2
+Proteostasis-coding genes	Overexpressed DEG	YME1	2.96110589923741	0.297781788632915	16
+Proteostasis-coding genes	Overexpressed DEG	YOP1	2.14927145551315	NA	1
+Proteostasis-coding genes	Overexpressed DEG	YOS9	2.39108930743627	0.290710068057863	4
+Proteostasis-coding genes	Overexpressed DEG	YPT1	3.29434784338481	0.205588066883304	16
+Proteostasis-coding genes	Overexpressed DEG	ZIM17	2.96349505849402	0.830059504122397	28
