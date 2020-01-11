@@ -1,0 +1,138 @@
+SGD_name	Genes	Yeast_species	Feature	Feature_definition	Length	Condition
+S000000006	YAL008W	S. cerevisiae	FUN14	Function Unknown Now	597	Autophagy-coding genes
+S000000112	YBL016W	S. cerevisiae	FUS3	cell FUSion	1062	Autophagy-coding genes
+S000000146	YBL050W	S. cerevisiae	SEC17	SECretory	995	Autophagy-coding genes
+S000000174	YBL078C	S. cerevisiae	ATG8	AuTophaGy related	354	Autophagy-coding genes
+S000000199	YBL103C	S. cerevisiae	RTG3	ReTroGrade regulation	1461	Autophagy-coding genes
+S000000201	YBL105C	S. cerevisiae	PKC1	Protein Kinase C	3456	Autophagy-coding genes
+S000000281	YBR077C	S. cerevisiae	SLM4	Synthetic Lethal with Mss4	489	Autophagy-coding genes
+S000000301	YBR097W	S. cerevisiae	VPS15	Vacuolar Protein Sorting	4365	Autophagy-coding genes
+S000000332	YBR128C	S. cerevisiae	ATG14	AuTophaGy related	1035	Autophagy-coding genes
+S000000335	YBR131W	S. cerevisiae	CCZ1	Calcium Caffeine Zinc sensitivity	2115	Autophagy-coding genes
+S000000343	YBR139W	S. cerevisiae	ATG42	AuTophaGy	1527	Autophagy-coding genes
+S000000368	YBR164C	S. cerevisiae	ARL1	ADP-Ribosylation factor-Like	552	Autophagy-coding genes
+S000000421	YBR217W	S. cerevisiae	ATG12	AuTophaGy related	561	Autophagy-coding genes
+S000000458	YBR254C	S. cerevisiae	TRS20	TRapp Subunit	528	Autophagy-coding genes
+S000000543	YCL038C	S. cerevisiae	ATG22	AuTophaGy related	1587	Autophagy-coding genes
+S000000664	YCR068W	S. cerevisiae	ATG15	AuTophaGy related	1563	Autophagy-coding genes
+S000000735	YEL009C	S. cerevisiae	GCN4	General Control Nonderepressible	846	Autophagy-coding genes
+S000000739	YEL013W	S. cerevisiae	VAC8	VACuole related	1737	Autophagy-coding genes
+S000000774	YEL048C	S. cerevisiae	TCA17	TRAPP Complex Associated protein	459	Autophagy-coding genes
+S000000788	YEL062W	S. cerevisiae	NPR2	Nitrogen Permease Regulator	1848	Autophagy-coding genes
+S000000833	YER031C	S. cerevisiae	YPT31	Yeast Protein Two	672	Autophagy-coding genes
+S000000959	YER157W	S. cerevisiae	COG3	Conserved Oligomeric Golgi complex	2406	Autophagy-coding genes
+S000000971	YER169W	S. cerevisiae	RPH1	Regulator of PHR1	2391	Autophagy-coding genes
+S000001015	YHL023C	S. cerevisiae	NPR3	Nitrogen Permease Regulator	3441	Autophagy-coding genes
+S000001072	YHR030C	S. cerevisiae	SLT2	Suppressor of the LyTic phenotype	1455	Autophagy-coding genes
+S000001214	YHR171W	S. cerevisiae	ATG7	AuTophaGy related	1893	Autophagy-coding genes
+S000001238	YHR195W	S. cerevisiae	NVJ1	Nucleus-Vacuole Junction	966	Autophagy-coding genes
+S000001327	YIL065C	S. cerevisiae	FIS1	mitochondrial FISsion	468	Autophagy-coding genes
+S000001408	YIL146C	S. cerevisiae	ATG32	AuTophaGy related	1590	Autophagy-coding genes
+S000001427	YIL165C	S. cerevisiae	NA		360	Autophagy-coding genes
+S000001520	YKL037W	S. cerevisiae	AIM26	Altered Inheritance rate of Mitochondria	357	Autophagy-coding genes
+S000001534	YKL051W	S. cerevisiae	SFK1	Suppressor of Four Kinase	1062	Autophagy-coding genes
+S000001586	YKL103C	S. cerevisiae	APE1	AminoPeptidase	1545	Autophagy-coding genes
+S000001686	YKL203C	S. cerevisiae	TOR2	Target Of Rapamycin	7425	Autophagy-coding genes
+S000001715	YKR007W	S. cerevisiae	MEH1	Multicopy suppressor of Ers1 Hygromycin B sensitivity	555	Autophagy-coding genes
+S000001722	YKR014C	S. cerevisiae	YPT52	Yeast Protein Two	705	Autophagy-coding genes
+S000001727	YKR019C	S. cerevisiae	IRS4	Increased rDNA Silencing	1848	Autophagy-coding genes
+S000001750	YKR042W	S. cerevisiae	UTH1	yoUTH	1098	Autophagy-coding genes
+S000001776	YKR068C	S. cerevisiae	BET3	Blocked Early in Transport	582	Autophagy-coding genes
+S000001856	YFL038C	S. cerevisiae	YPT1	Yeast Protein Two	621	Autophagy-coding genes
+S000001861	YFL033C	S. cerevisiae	RIM15	Regulator of IME2	5313	Autophagy-coding genes
+S000001873	YFL021W	S. cerevisiae	GAT1		1533	Autophagy-coding genes
+S000001889	YFL005W	S. cerevisiae	SEC4	SECretory	648	Autophagy-coding genes
+S000001917	YFR021W	S. cerevisiae	ATG18	AuTophaGy related	1503	Autophagy-coding genes
+S000001924	YFR028C	S. cerevisiae	CDC14	Cell Division Cycle	1656	Autophagy-coding genes
+S000002133	YCR079W	S. cerevisiae	PTC6	Phosphatase Two C	1329	Autophagy-coding genes
+S000002200	YDL042C	S. cerevisiae	SIR2	Silent Information Regulator	1689	Autophagy-coding genes
+S000002227	YDL069C	S. cerevisiae	CBS1	Cytochrome B Synthesis	690	Autophagy-coding genes
+S000002271	YDL113C	S. cerevisiae	ATG20	AuTophaGy related	1923	Autophagy-coding genes
+S000002308	YDL149W	S. cerevisiae	ATG9	AuTophaGy related	2994	Autophagy-coding genes
+S000002379	YDL220C	S. cerevisiae	CDC13	Cell Division Cycle	2775	Autophagy-coding genes
+S000002429	YDR022C	S. cerevisiae	ATG31	AuTophaGy related	591	Autophagy-coding genes
+S000002515	YDR108W	S. cerevisiae	TRS85	TRapp Subunit	2097	Autophagy-coding genes
+S000002577	YDR170C	S. cerevisiae	SEC7	SECretory	6030	Autophagy-coding genes
+S000002654	YDR246W	S. cerevisiae	TRS23	TRapp Subunit	660	Autophagy-coding genes
+S000002781	YDR373W	S. cerevisiae	FRQ1	FReQuenin homolog	573	Autophagy-coding genes
+S000002815	YDR407C	S. cerevisiae	TRS120	TRapp Subunit	3870	Autophagy-coding genes
+S000002843	YDR435C	S. cerevisiae	PPM1	Protein Phosphatase Methyltransferase	987	Autophagy-coding genes
+S000002880	YDR472W	S. cerevisiae	TRS31	TRapp Subunit	852	Autophagy-coding genes
+S000003092	YGL124C	S. cerevisiae	MON1	MONensin sensitivity	1935	Autophagy-coding genes
+S000003148	YGL180W	S. cerevisiae	ATG1	AuTophaGy related	2694	Autophagy-coding genes
+S000003178	YGL210W	S. cerevisiae	YPT32	Yeast Protein Two	669	Autophagy-coding genes
+S000003180	YGL212W	S. cerevisiae	VAM7	VAcuolar Morphogenesis	951	Autophagy-coding genes
+S000003281	YGR049W	S. cerevisiae	SCM4	Suppressor of Cdc4 Mutation	564	Autophagy-coding genes
+S000003295	YGR063C	S. cerevisiae	SPT4	SuPpressor of Ty's	309	Autophagy-coding genes
+S000003352	YGR120C	S. cerevisiae	COG2	Conserved Oligomeric Golgi complex	789	Autophagy-coding genes
+S000003395	YGR163W	S. cerevisiae	GTR2	GTp binding protein Resemblance	1026	Autophagy-coding genes
+S000003398	YGR166W	S. cerevisiae	TRS65	TRapp Subunit	1683	Autophagy-coding genes
+S000003455	YGR223C	S. cerevisiae	HSV2	Homologous with SVP1	1347	Autophagy-coding genes
+S000003573	YJL036W	S. cerevisiae	SNX4	Sorting NeXin	1272	Autophagy-coding genes
+S000003619	YJL083W	S. cerevisiae	TAX4		1815	Autophagy-coding genes
+S000003631	YJL095W	S. cerevisiae	BCK1	Bypass of C Kinase	4437	Autophagy-coding genes
+S000003663	YJL127C	S. cerevisiae	SPT10	SuPpressor of Ty	1923	Autophagy-coding genes
+S000003700	YJL164C	S. cerevisiae	TPK1	Takashi's Protein Kinase	1194	Autophagy-coding genes
+S000003714	YJL178C	S. cerevisiae	ATG27	AuTophaGy related	816	Autophagy-coding genes
+S000003721	YJL185C	S. cerevisiae	ATG36	AuTophaGy related	882	Autophagy-coding genes
+S000003827	YJR066W	S. cerevisiae	TOR1	Target Of Rapamycin	7413	Autophagy-coding genes
+S000003861	YJR100C	S. cerevisiae	AIM25	Altered Inheritance of Mitochondria	984	Autophagy-coding genes
+S000003899	YJR138W	S. cerevisiae	IML1	Increased Minichromosome Loss	4755	Autophagy-coding genes
+S000003924	YLL001W	S. cerevisiae	DNM1	DyNaMin-related	2274	Autophagy-coding genes
+S000003930	YLL007C	S. cerevisiae	LMO1	eLMO homolog	1998	Autophagy-coding genes
+S000003965	YLL042C	S. cerevisiae	ATG10	AuTophaGy related	504	Autophagy-coding genes
+S000004179	YLR189C	S. cerevisiae	ATG26	AuTophaGy related	3597	Autophagy-coding genes
+S000004199	YLR209C	S. cerevisiae	PNP1	purine nucleoside phosphorylase	936	Autophagy-coding genes
+S000004201	YLR211C	S. cerevisiae	ATG38	AuTophaGy related	740	Autophagy-coding genes
+S000004230	YLR240W	S. cerevisiae	VPS34	Vacuolar Protein Sorting	2628	Autophagy-coding genes
+S000004252	YLR262C	S. cerevisiae	YPT6	Yeast Protein Two	648	Autophagy-coding genes
+S000004282	YLR291C	S. cerevisiae	GCD7	General Control Derepressed	1146	Autophagy-coding genes
+S000004296	YLR305C	S. cerevisiae	STT4	STaurosporine and Temperature sensitive	5703	Autophagy-coding genes
+S000004303	YLR312C	S. cerevisiae	ATG39	AuTophaGy related	1197	Autophagy-coding genes
+S000004324	YLR332W	S. cerevisiae	MID2	Mating pheromone-Induced Death	1131	Autophagy-coding genes
+S000004348	YLR356W	S. cerevisiae	ATG33	AuTophaGy related	594	Autophagy-coding genes
+S000004385	YLR393W	S. cerevisiae	ATP10	ATP synthase	840	Autophagy-coding genes
+S000004414	YLR422W	S. cerevisiae	DCK1	DoCK1 homolog	5799	Autophagy-coding genes
+S000004415	YLR423C	S. cerevisiae	ATG17	AuTophaGy related	1254	Autophagy-coding genes
+S000004423	YLR431C	S. cerevisiae	ATG23	AuTophaGy related	1362	Autophagy-coding genes
+S000004470	YML010W	S. cerevisiae	SPT5	SuPpressor of Ty's	3192	Autophagy-coding genes
+S000004542	YML077W	S. cerevisiae	BET5	Blocked Early in Transport	480	Autophagy-coding genes
+S000004590	YML121W	S. cerevisiae	GTR1	GTp binding protein Resemblance	933	Autophagy-coding genes
+S000004684	YMR079W	S. cerevisiae	SEC14	SECretory	1071	Autophagy-coding genes
+S000004769	YMR159C	S. cerevisiae	ATG16	AuTophaGy related	453	Autophagy-coding genes
+S000004831	YMR218C	S. cerevisiae	TRS130	TRapp Subunit	3309	Autophagy-coding genes
+S000004834	YMR221C	S. cerevisiae	FMP42	Found in Mitochondrial Proteome	1515	Autophagy-coding genes
+S000005041	YNL097C	S. cerevisiae	PHO23	PHOsphate metabolism	993	Autophagy-coding genes
+S000005167	YNL223W	S. cerevisiae	ATG4	AuTophaGy related	1485	Autophagy-coding genes
+S000005186	YNL242W	S. cerevisiae	ATG2	AuTophaGy related	4779	Autophagy-coding genes
+S000005211	YNL267W	S. cerevisiae	PIK1	Phosphatidyl Inositol Kinase	3201	Autophagy-coding genes
+S000005216	YNL272C	S. cerevisiae	SEC2	SECretory	2280	Autophagy-coding genes
+S000005274	YNL330C	S. cerevisiae	RPD3	Reduced Potassium Dependency	1302	Autophagy-coding genes
+S000005290	YNR007C	S. cerevisiae	ATG3	AuTophaGy related	933	Autophagy-coding genes
+S000005442	YOL082W	S. cerevisiae	ATG19	AuTophaGy related	1248	Autophagy-coding genes
+S000005443	YOL083W	S. cerevisiae	ATG34	AuTophaGy related	1239	Autophagy-coding genes
+S000005465	YOL105C	S. cerevisiae	WSC3	cell Wall integrity and Stress response Component	1671	Autophagy-coding genes
+S000005534	YOR008C	S. cerevisiae	SLG1	Synthetic Lethal with Gap	1137	Autophagy-coding genes
+S000005545	YOR019W	S. cerevisiae	NA		2193	Autophagy-coding genes
+S000005568	YOR042W	S. cerevisiae	CUE5	Coupling of Ubiquitin conjugation to ER degradation	1236	Autophagy-coding genes
+S000005569	YOR043W	S. cerevisiae	WHI2	WHIskey	1461	Autophagy-coding genes
+S000005615	YOR089C	S. cerevisiae	VPS21	Vacuolar Protein Sorting	633	Autophagy-coding genes
+S000005632	YOR106W	S. cerevisiae	VAM3	VAcuolar Morphogenesis	852	Autophagy-coding genes
+S000005641	YOR115C	S. cerevisiae	TRS33	TRapp Subunit	807	Autophagy-coding genes
+S000005666	YOR140W	S. cerevisiae	SFL1	Suppressor gene for FLocculation	2301	Autophagy-coding genes
+S000005678	YOR152C	S. cerevisiae	ATG40	AuTophaGy related	771	Autophagy-coding genes
+S000005757	YOR231W	S. cerevisiae	MKK1	Mitogen-activated protein Kinase-Kinase	1527	Autophagy-coding genes
+S000006006	YPL085W	S. cerevisiae	SEC16	SECretory	6588	Autophagy-coding genes
+S000006021	YPL100W	S. cerevisiae	ATG21	AuTophaGy related	1491	Autophagy-coding genes
+S000006041	YPL120W	S. cerevisiae	VPS30	Vacuolar Protein Sorting	1674	Autophagy-coding genes
+S000006061	YPL140C	S. cerevisiae	MKK2	Mitogen-activated Kinase Kinase	1521	Autophagy-coding genes
+S000006070	YPL149W	S. cerevisiae	ATG5	AuTophaGy related	885	Autophagy-coding genes
+S000006075	YPL154C	S. cerevisiae	PEP4	carboxyPEPtidase Y-deficient	1218	Autophagy-coding genes
+S000006087	YPL166W	S. cerevisiae	ATG29	AuTophaGy related	642	Autophagy-coding genes
+S000006125	YPL204W	S. cerevisiae	HRR25	HO and Radiation Repair	1485	Autophagy-coding genes
+S000006171	YPL250C	S. cerevisiae	ATG41	AuTophaGy related	411	Autophagy-coding genes
+S000006232	YPR028W	S. cerevisiae	YOP1	YIP One Partner	676	Autophagy-coding genes
+S000006253	YPR049C	S. cerevisiae	ATG11	AuTophaGy related	3537	Autophagy-coding genes
+S000006309	YPR105C	S. cerevisiae	COG4	Conserved Oligomeric Golgi complex	2586	Autophagy-coding genes
+S000006377	YPR173C	S. cerevisiae	VPS4	Vacuolar Protein Sorting	1314	Autophagy-coding genes
+S000006389	YPR185W	S. cerevisiae	ATG13	AuTophaGy related	2217	Autophagy-coding genes

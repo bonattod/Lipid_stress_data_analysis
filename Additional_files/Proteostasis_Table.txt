@@ -1,0 +1,193 @@
+SGD_name	Genes	Yeast_species	Feature	Feature_definition	Length	Condition
+S000000021	YAL023C	S. cerevisiae	PMT2	Protein O-MannosylTransferase	2280	Proteostasis-coding genes
+S000000143	YBL047C	S. cerevisiae	EDE1	EH Domains and Endocytosis	4146	Proteostasis-coding genes
+S000000171	YBL075C	S. cerevisiae	SSA3	Stress-Seventy subfamily A	1950	Proteostasis-coding genes
+S000000276	YBR072W	S. cerevisiae	HSP26	Heat Shock Protein	645	Proteostasis-coding genes
+S000000368	YBR164C	S. cerevisiae	ARL1	ADP-Ribosylation factor-Like	552	Proteostasis-coding genes
+S000000374	YBR170C	S. cerevisiae	NPL4	Nuclear Protein Localization	1743	Proteostasis-coding genes
+S000000548	YCL043C	S. cerevisiae	PDI1	Protein Disulfide Isomerase	1569	Proteostasis-coding genes
+S000000891	YER089C	S. cerevisiae	PTC2	Phosphatase Two C	1395	Proteostasis-coding genes
+S000000905	YER103W	S. cerevisiae	SSA4	Stress-Seventy subfamily A	1929	Proteostasis-coding genes
+S000000935	YER133W	S. cerevisiae	GLC7	GLyCogen	1464	Proteostasis-coding genes
+S000000942	YER140W	S. cerevisiae	EMP65	ER Membrane Protein of 65 kDa	1671	Proteostasis-coding genes
+S000001012	YHL020C	S. cerevisiae	OPI1	OverProducer of Inositol	1215	Proteostasis-coding genes
+S000001071	YHR029C	S. cerevisiae	YHI9		885	Proteostasis-coding genes
+S000001072	YHR030C	S. cerevisiae	SLT2	Suppressor of the LyTic phenotype	1455	Proteostasis-coding genes
+S000001121	YHR079C	S. cerevisiae	IRE1	Inositol REquiring	3348	Proteostasis-coding genes
+S000001175	YHR133C	S. cerevisiae	NSG1		876	Proteostasis-coding genes
+S000001235	YHR192W	S. cerevisiae	LNP1	LuNaPark family member	837	Proteostasis-coding genes
+S000001247	YHR204W	S. cerevisiae	MNL1	MaNnosidase-Like protein	2391	Proteostasis-coding genes
+S000001249	YHR206W	S. cerevisiae	SKN7	Suppressor of Kre Null	1869	Proteostasis-coding genes
+S000001366	YIL104C	S. cerevisiae	SHQ1	Small nucleolar RNAs of the box H/ACA family Quantitative accumulation	1524	Proteostasis-coding genes
+S000001451	YIR012W	S. cerevisiae	SQT1	Suppressor of QSR1 Truncations	1296	Proteostasis-coding genes
+S000001556	YKL073W	S. cerevisiae	LHS1	Lumenal Hsp Seventy	2646	Proteostasis-coding genes
+S000001600	YKL117W	S. cerevisiae	SBA1	increased Sensitivity to Benzoquinone Ansamycins	651	Proteostasis-coding genes
+S000001773	YKR065C	S. cerevisiae	PAM17	Presequence translocase-Associated Motor	594	Proteostasis-coding genes
+S000001850	YFL044C	S. cerevisiae	OTU1	Ovarian TUmor	906	Proteostasis-coding genes
+S000001856	YFL038C	S. cerevisiae	YPT1	Yeast Protein Two	621	Proteostasis-coding genes
+S000001863	YFL031W	S. cerevisiae	HAC1	Homologous to Atf/Creb1	969	Proteostasis-coding genes
+S000001878	YFL016C	S. cerevisiae	MDJ1	Mitochondrial DnaJ	1536	Proteostasis-coding genes
+S000001922	YFR026C	S. cerevisiae	ULI1	Upr-L-Inducible gene	510	Proteostasis-coding genes
+S000001937	YFR041C	S. cerevisiae	ERJ5	Endoplasmic Reticulum located J-protein	888	Proteostasis-coding genes
+S000002158	YBR162W-A	S. cerevisiae	YSY6		198	Proteostasis-coding genes
+S000002253	YDL095W	S. cerevisiae	PMT1	Protein O-MannosylTransferase	2454	Proteostasis-coding genes
+S000002258	YDL100C	S. cerevisiae	GET3	Guided Entry of Tail-anchored proteins	1065	Proteostasis-coding genes
+S000002284	YDL126C	S. cerevisiae	CDC48	Cell Division Cycle	2508	Proteostasis-coding genes
+S000002363	YDL204W	S. cerevisiae	RTN2	ReTiculoN-like	1182	Proteostasis-coding genes
+S000002388	YDL229W	S. cerevisiae	SSB1	Stress-Seventy subfamily B	1842	Proteostasis-coding genes
+S000002435	YDR028C	S. cerevisiae	REG1	REsistance to Glucose repression	3045	Proteostasis-coding genes
+S000002464	YDR057W	S. cerevisiae	YOS9	Yeast OS-9 homolog	1629	Proteostasis-coding genes
+S000002575	YDR168W	S. cerevisiae	CDC37	Cell Division Cycle	1521	Proteostasis-coding genes
+S000002578	YDR171W	S. cerevisiae	HSP42	Heat Shock Protein	1128	Proteostasis-coding genes
+S000002622	YDR214W	S. cerevisiae	AHA1	Activator of Heat shock protein 90 ATPase	1053	Proteostasis-coding genes
+S000002641	YDR233C	S. cerevisiae	RTN1	ReTiculoN-like	888	Proteostasis-coding genes
+S000002666	YDR258C	S. cerevisiae	HSP78	Heat Shock Protein	2436	Proteostasis-coding genes
+S000002712	YDR304C	S. cerevisiae	CPR5	Cyclosporin-sensitive Proline Rotamase	678	Proteostasis-coding genes
+S000002780	YDR372C	S. cerevisiae	VPS74	Vacuolar Protein Sorting	1038	Proteostasis-coding genes
+S000002819	YDR411C	S. cerevisiae	DFM1	Der1-like Family Member	1026	Proteostasis-coding genes
+S000002885	YDR477W	S. cerevisiae	SNF1	Sucrose NonFermenting	1902	Proteostasis-coding genes
+S000002926	YDR518W	S. cerevisiae	EUG1	ER protein Unnecessary for Growth	1554	Proteostasis-coding genes
+S000003270	YGR038W	S. cerevisiae	ORM1		669	Proteostasis-coding genes
+S000003364	YGR132C	S. cerevisiae	PHB1	ProHiBitin	864	Proteostasis-coding genes
+S000003463	YGR231C	S. cerevisiae	PHB2	ProHiBitin	933	Proteostasis-coding genes
+S000003571	YJL034W	S. cerevisiae	KAR2	KARyogamy	2049	Proteostasis-coding genes
+S000003623	YJL087C	S. cerevisiae	TRL1	tRNA Ligase	2484	Proteostasis-coding genes
+S000003631	YJL095W	S. cerevisiae	BCK1	Bypass of C Kinase	4437	Proteostasis-coding genes
+S000003653	YJL117W	S. cerevisiae	PHO86	PHOsphate metabolism	936	Proteostasis-coding genes
+S000003793	YJR032W	S. cerevisiae	CPR7	Cyclosporin-sensitive Proline Rotamase	1182	Proteostasis-coding genes
+S000003904	YJR143C	S. cerevisiae	PMT4	Protein O-MannosylTransferase	2289	Proteostasis-coding genes
+S000003949	YLL026W	S. cerevisiae	HSP104	Heat Shock Protein	2727	Proteostasis-coding genes
+S000004011	YLR021W	S. cerevisiae	IRC25	Increased Recombination Centers	540	Proteostasis-coding genes
+S000004080	YLR090W	S. cerevisiae	XDJ1		1380	Proteostasis-coding genes
+S000004172	YLR182W	S. cerevisiae	SWI6	SWItching deficient	2412	Proteostasis-coding genes
+S000004206	YLR216C	S. cerevisiae	CPR6	Cyclosporin-sensitive Proline Rotamase	1116	Proteostasis-coding genes
+S000004300	YLR309C	S. cerevisiae	IMH1	shares with Integrins and Myosins significant Homology	2736	Proteostasis-coding genes
+S000004324	YLR332W	S. cerevisiae	MID2	Mating pheromone-Induced Death	1131	Proteostasis-coding genes
+S000004342	YLR350W	S. cerevisiae	ORM2		651	Proteostasis-coding genes
+S000004353	YLR361C	S. cerevisiae	DCR2	Dose-dependent Cell cycle Regulator	1737	Proteostasis-coding genes
+S000004466	YML007W	S. cerevisiae	YAP1	Yeast AP-1	1953	Proteostasis-coding genes
+S000004490	YML028W	S. cerevisiae	TSA1	Thiol-Specific Antioxidant	591	Proteostasis-coding genes
+S000004798	YMR186W	S. cerevisiae	HSC82		2118	Proteostasis-coding genes
+S000004827	YMR214W	S. cerevisiae	SCJ1	S. Cerevisiae DnaJ	1134	Proteostasis-coding genes
+S000004952	YNL007C	S. cerevisiae	SIS1	SIt4 Suppressor	1059	Proteostasis-coding genes
+S000005008	YNL064C	S. cerevisiae	YDJ1	Yeast dnaJ	1230	Proteostasis-coding genes
+S000005021	YNL077W	S. cerevisiae	APJ1	Anti-Prion DnaJ	1587	Proteostasis-coding genes
+S000005065	YNL121C	S. cerevisiae	TOM70	Translocase of the Outer Mitochondrial membrane	1854	Proteostasis-coding genes
+S000005153	YNL209W	S. cerevisiae	SSB2	Stress-Seventy subfamily B	1842	Proteostasis-coding genes
+S000005225	YNL281W	S. cerevisiae	HCH1	High-Copy Hsp90 suppressor	462	Proteostasis-coding genes
+S000005249	YNL305C	S. cerevisiae	BXI1	BaX Inhibitor	894	Proteostasis-coding genes
+S000005254	YNL310C	S. cerevisiae	ZIM17	ZInc finger Motif protein of 17 kDa	525	Proteostasis-coding genes
+S000005373	YOL013C	S. cerevisiae	HRD1	HMG-coA Reductase Degradation	1656	Proteostasis-coding genes
+S000005508	YOL148C	S. cerevisiae	SPT20	SuPpressor of Ty	1815	Proteostasis-coding genes
+S000005533	YOR007C	S. cerevisiae	SGT2	Small Glutamine-rich Tetratricopeptide repeat-containing protein	1041	Proteostasis-coding genes
+S000005546	YOR020C	S. cerevisiae	HSP10	Heat Shock Protein	321	Proteostasis-coding genes
+S000005583	YOR057W	S. cerevisiae	SGT1	Suppressor of G2 (Two) allele of skp1	1188	Proteostasis-coding genes
+S000005814	YOR288C	S. cerevisiae	MPD1	Multicopy suppressor of PDI1 deletion	957	Proteostasis-coding genes
+S000005863	YOR336W	S. cerevisiae	KRE5	Killer toxin REsistant	4098	Proteostasis-coding genes
+S000005918	YOR391C	S. cerevisiae	HSP33	Heat-Shock Protein	714	Proteostasis-coding genes
+S000005972	YPL051W	S. cerevisiae	ARL3	ADP-Ribosylation factor-Like	597	Proteostasis-coding genes
+S000006065	YPL144W	S. cerevisiae	POC4	PrOteasome Chaperone	447	Proteostasis-coding genes
+S000006160	YPL239W	S. cerevisiae	YAR1	Yeast Ankyrin Repeat	603	Proteostasis-coding genes
+S000006161	YPL240C	S. cerevisiae	HSP82	Heat Shock Protein	2130	Proteostasis-coding genes
+S000006201	YPL280W	S. cerevisiae	HSP32	Heat-Shock Protein	714	Proteostasis-coding genes
+S000006232	YPR028W	S. cerevisiae	YOP1	YIP One Partner	676	Proteostasis-coding genes
+S000006299	YPR095C	S. cerevisiae	SYT1	Suppressor of ypt3	3681	Proteostasis-coding genes
+S000006362	YPR158W	S. cerevisiae	CUR1	Curing of [URe3]	759	Proteostasis-coding genes
+S000000341	YBR137W	S. cerevisiae	NA		540	Proteostasis-coding genes
+S000000885	YER083C	S. cerevisiae	GET2	Guided Entry of Tail-anchored proteins	858	Proteostasis-coding genes
+S000002988	YGL020C	S. cerevisiae	GET1	Guided Entry of Tail-anchored proteins	708	Proteostasis-coding genes
+S000005471	YOL111C	S. cerevisiae	MDY2	Mating-Deficient Yeast	639	Proteostasis-coding genes
+S000005690	YOR164C	S. cerevisiae	GET4	Guided Entry Tail-anchored proteins	939	Proteostasis-coding genes
+S000000004	YAL005C	S. cerevisiae	SSA1	Stress-Seventy subfamily A	1929	Proteostasis-coding genes
+S000000054	YAL058W	S. cerevisiae	CNE1	CalNExin and calreticulin homolog	1509	Proteostasis-coding genes
+S000000118	YBL022C	S. cerevisiae	PIM1	Proteolysis In Mitochondria	3402	Proteostasis-coding genes
+S000000248	YBR044C	S. cerevisiae	TCM62	TriCarboxylic acid cycle Mutant	1719	Proteostasis-coding genes
+S000000284	YBR080C	S. cerevisiae	SEC18	SECretory	2277	Proteostasis-coding genes
+S000000295	YBR091C	S. cerevisiae	TIM12	Translocase of the Inner Membrane	330	Proteostasis-coding genes
+S000000377	YBR173C	S. cerevisiae	UMP1	Ubiquitin-Mediated Proteolysis	447	Proteostasis-coding genes
+S000000431	YBR227C	S. cerevisiae	MCX1	Mitochondrial ClpX	1563	Proteostasis-coding genes
+S000000473	YBR269C	S. cerevisiae	SDH8	Succinate DeHydrogenase	417	Proteostasis-coding genes
+S000000656	YCR060W	S. cerevisiae	TAH1	Tpr-containing protein Associated with Hsp90	336	Proteostasis-coding genes
+S000000729	YEL003W	S. cerevisiae	GIM4	Gene Involved in Microtubule biogenesis	424	Proteostasis-coding genes
+S000000756	YEL030W	S. cerevisiae	ECM10	ExtraCellular Mutant	1935	Proteostasis-coding genes
+S000000778	YEL052W	S. cerevisiae	AFG1	ATPase Family Gene	1530	Proteostasis-coding genes
+S000000819	YER017C	S. cerevisiae	AFG3	ATPase Family Gene	2286	Proteostasis-coding genes
+S000000832	YER030W	S. cerevisiae	CHZ1	Chaperone for Htz1/H2A-H2B dimer	462	Proteostasis-coding genes
+S000000874	YER072W	S. cerevisiae	VTC1	Vacuolar Transporter Chaperone	390	Proteostasis-coding genes
+S000001106	YHR064C	S. cerevisiae	SSZ1		1617	Proteostasis-coding genes
+S000001267	YIL005W	S. cerevisiae	EPS1	ER-retained Pma1 Suppressing	2106	Proteostasis-coding genes
+S000001278	YIL016W	S. cerevisiae	SNL1	Suppressor of Nup116-C Lethal	480	Proteostasis-coding genes
+S000001284	YIL022W	S. cerevisiae	TIM44	Translocase of the Inner Mitochondrial membrane	1296	Proteostasis-coding genes
+S000001443	YIR004W	S. cerevisiae	DJP1	DnaJ Protein	1299	Proteostasis-coding genes
+S000001624	YKL141W	S. cerevisiae	SDH3	Succinate DeHydrogenase	597	Proteostasis-coding genes
+S000001756	YKR048C	S. cerevisiae	NAP1	Nucleosome Assembly Protein	1254	Proteostasis-coding genes
+S000001800	YKR092C	S. cerevisiae	SRP40	Serine Rich Protein	1221	Proteostasis-coding genes
+S000001890	YFL004W	S. cerevisiae	VTC2	Vacuolar Transporter Chaperone	2487	Proteostasis-coding genes
+S000002209	YDL051W	S. cerevisiae	LHP1	La-Homologous Protein	828	Proteostasis-coding genes
+S000002223	YDL065C	S. cerevisiae	PEX19	PEroXisome related	1029	Proteostasis-coding genes
+S000002268	YDL110C	S. cerevisiae	TMA17	Translation Machinery Associated	453	Proteostasis-coding genes
+S000002278	YDL120W	S. cerevisiae	YFH1	Yeast Frataxin Homolog	525	Proteostasis-coding genes
+S000002371	YDL212W	S. cerevisiae	SHR3	Super high Histidine Resistant	633	Proteostasis-coding genes
+S000002376	YDL217C	S. cerevisiae	TIM22	Translocase of the Inner Mitochondrial membrane	624	Proteostasis-coding genes
+S000002486	YDR079W	S. cerevisiae	PET100	PETite colonies	336	Proteostasis-coding genes
+S000002496	YDR089W	S. cerevisiae	VTC5	Vacuole Transporter Chaperone	2610	Proteostasis-coding genes
+S000002568	YDR161W	S. cerevisiae	ACL4	Assembly Chaperone of RpL4	1164	Proteostasis-coding genes
+S000002783	YDR375C	S. cerevisiae	BCS1	ubiquinol-cytochrome c reductase (bc1) Synthesis	1371	Proteostasis-coding genes
+S000002901	YDR493W	S. cerevisiae	MZM1	Mitochondrial Zinc Maintenance	372	Proteostasis-coding genes
+S000002986	YGL018C	S. cerevisiae	JAC1	J-type Accessory Chaperone	555	Proteostasis-coding genes
+S000003200	YGL231C	S. cerevisiae	EMC4	ER Membrane protein Complex	573	Proteostasis-coding genes
+S000003265	YGR033C	S. cerevisiae	TIM21	Translocase of the Inner Mitochondrial membrane	720	Proteostasis-coding genes
+S000003310	YGR078C	S. cerevisiae	PAC10	Perish in the Absence of Cin8p	600	Proteostasis-coding genes
+S000003314	YGR082W	S. cerevisiae	TOM20	Translocase of the Outer Mitochondrial membrane	552	Proteostasis-coding genes
+S000003348	YGR116W	S. cerevisiae	SPT6	SuPpressor of Ty's	4356	Proteostasis-coding genes
+S000003355	YGR123C	S. cerevisiae	PPT1	Protein Phosphatase T	1542	Proteostasis-coding genes
+S000003357	YGR125W	S. cerevisiae	YGR125W		3111	Proteostasis-coding genes
+S000003374	YGR142W	S. cerevisiae	BTN2	BaTteN disease	1233	Proteostasis-coding genes
+S000003413	YGR181W	S. cerevisiae	TIM13	Translocase of the Inner Mitochondrial membrane	318	Proteostasis-coding genes
+S000003517	YGR285C	S. cerevisiae	ZUO1	ZUOtin	1302	Proteostasis-coding genes
+S000003549	YJL012C	S. cerevisiae	VTC4	Vacuolar Transporter Chaperone	2166	Proteostasis-coding genes
+S000003590	YJL054W	S. cerevisiae	TIM54	Translocase of the Inner Mitochondrial membrane	1437	Proteostasis-coding genes
+S000003609	YJL073W	S. cerevisiae	JEM1	DnaJ-like protein of the ER Membrane	1938	Proteostasis-coding genes
+S000003640	YJL104W	S. cerevisiae	PAM16	Presequence translocase-Associated Motor	450	Proteostasis-coding genes
+S000003679	YJL143W	S. cerevisiae	TIM17	Translocase of the Inner Mitochondrial membrane	477	Proteostasis-coding genes
+S000003698	YJL162C	S. cerevisiae	JJJ2	J-protein (Type III)	1752	Proteostasis-coding genes
+S000003715	YJL179W	S. cerevisiae	PFD1	PreFolDin	330	Proteostasis-coding genes
+S000003723	YJL187C	S. cerevisiae	SWE1	Saccharomyces WEe1	2460	Proteostasis-coding genes
+S000003806	YJR045C	S. cerevisiae	SSC1	Stress-Seventy subfamily C	1965	Proteostasis-coding genes
+S000003932	YLL009C	S. cerevisiae	COX17	Cytochrome c OXidase	210	Proteostasis-coding genes
+S000003947	YLL024C	S. cerevisiae	SSA2	Stress-Seventy subfamily A	1920	Proteostasis-coding genes
+S000003998	YLR008C	S. cerevisiae	PAM18	Presequence translocase-Associated Motor	507	Proteostasis-coding genes
+S000004190	YLR200W	S. cerevisiae	YKE2	Yeast ortholog of mouse KE2	345	Proteostasis-coding genes
+S000004249	YLR259C	S. cerevisiae	HSP60	Heat Shock Protein	1719	Proteostasis-coding genes
+S000004361	YLR369W	S. cerevisiae	SSQ1	Stress-Seventy subfamily Q	1974	Proteostasis-coding genes
+S000004559	YML094W	S. cerevisiae	GIM5	Gene Involved in Microtubule biogenesis	575	Proteostasis-coding genes
+S000004641	YMR038C	S. cerevisiae	CCS1	Copper Chaperone for SOD1	750	Proteostasis-coding genes
+S000004738	YMR131C	S. cerevisiae	RRB1	Regulator of Ribosome Biogenesis	1536	Proteostasis-coding genes
+S000004771	YMR161W	S. cerevisiae	HLJ1	HomoLogous to E. coli dnaJ protein	675	Proteostasis-coding genes
+S000004813	YMR200W	S. cerevisiae	ROT1	Reversal Of Tor2 lethality	771	Proteostasis-coding genes
+S000004816	YMR203W	S. cerevisiae	TOM40	Translocase of the Outer Mitochondrial membrane	1164	Proteostasis-coding genes
+S000004941	YMR322C	S. cerevisiae	SNO4	SNZ proximal Open reading frame	714	Proteostasis-coding genes
+S000005014	YNL070W	S. cerevisiae	TOM7	Translocase of the Outer Mitochondrial membrane	183	Proteostasis-coding genes
+S000005067	YNL123W	S. cerevisiae	NMA111	Nuclear Mediator of Apoptosis	2994	Proteostasis-coding genes
+S000005075	YNL131W	S. cerevisiae	TOM22	Translocase of the Outer Mitochondrial membrane	459	Proteostasis-coding genes
+S000005097	YNL153C	S. cerevisiae	GIM3	Gene Involved in Microtubule biogenesis	390	Proteostasis-coding genes
+S000005122	YNL178W	S. cerevisiae	RPS3	Ribosomal Protein of the Small subunit	723	Proteostasis-coding genes
+S000005150	YNL206C	S. cerevisiae	RTT106	Regulator of Ty1 Transposition	1368	Proteostasis-coding genes
+S000005190	YNL246W	S. cerevisiae	VPS75	Vacuolar Protein Sorting	890	Proteostasis-coding genes
+S000005203	YNL259C	S. cerevisiae	ATX1	AnTioXidant	222	Proteostasis-coding genes
+S000005259	YNL315C	S. cerevisiae	ATP11	ATP synthase	957	Proteostasis-coding genes
+S000005272	YNL328C	S. cerevisiae	MDJ2	Mitochondrial DnaJ homolog	441	Proteostasis-coding genes
+S000005300	YNR017W	S. cerevisiae	TIM23	Translocase of the Inner Mitochondrial membrane	669	Proteostasis-coding genes
+S000005391	YOL031C	S. cerevisiae	SIL1	Suppressor of the Ire1/Lhs1 double mutant	1266	Proteostasis-coding genes
+S000005448	YOL088C	S. cerevisiae	MPD2	Multicopy suppressor of PDI1 deletion	834	Proteostasis-coding genes
+S000005571	YOR045W	S. cerevisiae	TOM6	Translocase of the Outer Mitochondrial membrane	186	Proteostasis-coding genes
+S000005758	YOR232W	S. cerevisiae	MGE1	Mitochondrial GrpE	687	Proteostasis-coding genes
+S000005823	YOR297C	S. cerevisiae	TIM18	Translocase of the Inner Mitochondrial membrane	579	Proteostasis-coding genes
+S000005940	YPL019C	S. cerevisiae	VTC3	Vacuolar Transporter Chaperone	2508	Proteostasis-coding genes
+S000005984	YPL063W	S. cerevisiae	TIM50	Translocase of the Inner Mitochondrial membrane	1431	Proteostasis-coding genes
+S000006019	YPL098C	S. cerevisiae	MGR2	Mitochondrial Genome Required	342	Proteostasis-coding genes
+S000006027	YPL106C	S. cerevisiae	SSE1	Stress Seventy subfamily E	2082	Proteostasis-coding genes
+S000006052	YPL131W	S. cerevisiae	RPL5	Ribosomal Protein of the Large subunit	894	Proteostasis-coding genes
+S000006228	YPR024W	S. cerevisiae	YME1	Yeast Mitochondrial Escape	2244	Proteostasis-coding genes
+S000007256	YEL020W-A	S. cerevisiae	TIM9	Translocase of the Inner Mitochondrial membrane	264	Proteostasis-coding genes
+S000007348	YJR135W-A	S. cerevisiae	TIM8	Translocase of the Inner Mitochondrial membrane	264	Proteostasis-coding genes

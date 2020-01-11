@@ -1,0 +1,307 @@
+SGD_name	Genes	Yeast_species	Feature	Feature_definition	Length	Condition
+S000000044	YAL046C	S. cerevisiae	BOL3	BolA-like protein	357	Lipid metabolism-coding genes
+S000000048	YAL051W	S. cerevisiae	OAF1	Oleate-Activated transcription Factor	3144	Lipid metabolism-coding genes
+S000000080	YAR035W	S. cerevisiae	YAT1		2064	Lipid metabolism-coding genes
+S000000107	YBL011W	S. cerevisiae	SCT1	Suppressor of Choline-Transport mutants	2280	Lipid metabolism-coding genes
+S000000111	YBL015W	S. cerevisiae	ACH1	Acetyl CoA Hydrolase	1581	Lipid metabolism-coding genes
+S000000118	YBL022C	S. cerevisiae	PIM1	Proteolysis In Mitochondria	3402	Lipid metabolism-coding genes
+S000000230	YBR026C	S. cerevisiae	ETR1	2-Enoyl Thioester Reductase	1143	Lipid metabolism-coding genes
+S000000233	YBR029C	S. cerevisiae	CDS1	CDP-Diacylglycerol Synthase	1374	Lipid metabolism-coding genes
+S000000245	YBR041W	S. cerevisiae	FAT1	FATty acid transporter	2010	Lipid metabolism-coding genes
+S000000246	YBR042C	S. cerevisiae	CST26	Chromosome STability	1194	Lipid metabolism-coding genes
+S000000284	YBR080C	S. cerevisiae	SEC18	SECretory	2277	Lipid metabolism-coding genes
+S000000316	YBR112C	S. cerevisiae	CYC8	CYtochrome C	2901	Lipid metabolism-coding genes
+S000000325	YBR121C	S. cerevisiae	GRS1	Glycyl-tRNA Synthase	2004	Lipid metabolism-coding genes
+S000000363	YBR159W	S. cerevisiae	IFA38		1044	Lipid metabolism-coding genes
+S000000381	YBR177C	S. cerevisiae	EHT1	Ethanol Hexanoyl Transferase	1356	Lipid metabolism-coding genes
+S000000387	YBR183W	S. cerevisiae	YPC1	Yeast Phyto-Ceramidase	951	Lipid metabolism-coding genes
+S000000423	YBR219C	S. cerevisiae	NA		805	Lipid metabolism-coding genes
+S000000424	YBR220C	S. cerevisiae	NA		1683	Lipid metabolism-coding genes
+S000000425	YBR221C	S. cerevisiae	PDB1	Pyruvate Dehydrogenase Beta subunit	1101	Lipid metabolism-coding genes
+S000000431	YBR227C	S. cerevisiae	MCX1	Mitochondrial ClpX	1563	Lipid metabolism-coding genes
+S000000473	YBR269C	S. cerevisiae	SDH8	Succinate DeHydrogenase	417	Lipid metabolism-coding genes
+S000000510	YCL004W	S. cerevisiae	PGS1	PhosphatidylGlycerolphosphate Synthase	1566	Lipid metabolism-coding genes
+S000000529	YCL024W	S. cerevisiae	KCC4		3114	Lipid metabolism-coding genes
+S000000589	YCL026C-A	S. cerevisiae	FRM2	Fatty acid Repression Mutant	582	Lipid metabolism-coding genes
+S000000610	YCR017C	S. cerevisiae	CWH43	Calcofluor White Hypersensitive	2862	Lipid metabolism-coding genes
+S000000618	YCR024C	S. cerevisiae	SLM5	Synthetic Lethal with Mss4	1479	Lipid metabolism-coding genes
+S000000630	YCR034W	S. cerevisiae	ELO2	fatty acid ELOngation	1044	Lipid metabolism-coding genes
+S000000680	YCR084C	S. cerevisiae	TUP1	dTMP-UPtake	2142	Lipid metabolism-coding genes
+S000000817	YER015W	S. cerevisiae	FAA2	Fatty Acid Activation	2235	Lipid metabolism-coding genes
+S000000826	YER024W	S. cerevisiae	YAT2		2772	Lipid metabolism-coding genes
+S000000828	YER026C	S. cerevisiae	CHO1	CHOline requiring	831	Lipid metabolism-coding genes
+S000000845	YER043C	S. cerevisiae	SAH1	S-Adenosyl-l-Homocysteine hydrolase	1350	Lipid metabolism-coding genes
+S000000860	YER058W	S. cerevisiae	PET117	PETite colonies	324	Lipid metabolism-coding genes
+S000000863	YER061C	S. cerevisiae	CEM1	Condensing Enzyme with Mitochondrial function	1329	Lipid metabolism-coding genes
+S000000871	YER069W	S. cerevisiae	ARG5,6	ARGinine requiring	2592	Lipid metabolism-coding genes
+S000000875	YER073W	S. cerevisiae	ALD5	ALdehyde Dehydrogenase	1563	Lipid metabolism-coding genes
+S000000927	YER125W	S. cerevisiae	RSP5	Reverses Spt- Phenotype	2430	Lipid metabolism-coding genes
+S000000970	YER168C	S. cerevisiae	CCA1	tRNA CCA-pyrophosphorylase	1641	Lipid metabolism-coding genes
+S000000972	YER170W	S. cerevisiae	ADK2	ADenylate Kinase	678	Lipid metabolism-coding genes
+S000000980	YER178W	S. cerevisiae	PDA1	Pyruvate Dehydrogenase Alpha	1263	Lipid metabolism-coding genes
+S000000986	YER184C	S. cerevisiae	TOG1	Transcriptional regulator of Oleate utilization Genes	2385	Lipid metabolism-coding genes
+S000001012	YHL020C	S. cerevisiae	OPI1	OverProducer of Inositol	1215	Lipid metabolism-coding genes
+S000001024	YHL032C	S. cerevisiae	GUT1	Glycerol UTilization	2130	Lipid metabolism-coding genes
+S000001050	YHR008C	S. cerevisiae	SOD2	SuperOxide Dismutase	702	Lipid metabolism-coding genes
+S000001053	YHR011W	S. cerevisiae	DIA4	Digs Into Agar	1341	Lipid metabolism-coding genes
+S000001066	YHR024C	S. cerevisiae	MAS2	Mitochondrial ASsembly	1449	Lipid metabolism-coding genes
+S000001079	YHR037W	S. cerevisiae	PUT2	Proline UTilization	1728	Lipid metabolism-coding genes
+S000001109	YHR067W	S. cerevisiae	HTD2	Hydroxyacyl-Thioester Dehydratase	843	Lipid metabolism-coding genes
+S000001112	YHR070W	S. cerevisiae	TRM5	tRNA Methyltransferase	1500	Lipid metabolism-coding genes
+S000001133	YHR091C	S. cerevisiae	MSR1	Mitochondrial tRNA Synthetase aRginine	1932	Lipid metabolism-coding genes
+S000001142	YHR100C	S. cerevisiae	GEP4	GEnetic interactors of Prohibitins	558	Lipid metabolism-coding genes
+S000001165	YHR123W	S. cerevisiae	EPT1	EthanolaminePhosphoTransferase	1267	Lipid metabolism-coding genes
+S000001236	YHR193C	S. cerevisiae	EGD2	Enhancer of Gal4 DNA binding	525	Lipid metabolism-coding genes
+S000001244	YHR201C	S. cerevisiae	PPX1		1194	Lipid metabolism-coding genes
+S000001251	YHR208W	S. cerevisiae	BAT1	Branched-chain Amino acid Transaminase	1182	Lipid metabolism-coding genes
+S000001271	YIL009W	S. cerevisiae	FAA3	Fatty Acid Activation	2085	Lipid metabolism-coding genes
+S000001304	YIL042C	S. cerevisiae	PKP1	Protein Kinase of PDH	1185	Lipid metabolism-coding genes
+S000001313	YIL051C	S. cerevisiae	MMF1	Mitochondrial Matrix Factor	438	Lipid metabolism-coding genes
+S000001332	YIL070C	S. cerevisiae	MAM33	Mitochondrial Acidic Matrix protein	801	Lipid metabolism-coding genes
+S000001360	YIL098C	S. cerevisiae	FMC1	Formation of Mitochondrial Complexes	468	Lipid metabolism-coding genes
+S000001386	YIL124W	S. cerevisiae	AYR1	1-AcyldihYdroxyacetone-phosphate Reductase	894	Lipid metabolism-coding genes
+S000001387	YIL125W	S. cerevisiae	KGD1	alpha-KetoGlutarate Dehydrogenase	3045	Lipid metabolism-coding genes
+S000001422	YIL160C	S. cerevisiae	POT1	Peroxisomal Oxoacyl Thiolase	1254	Lipid metabolism-coding genes
+S000001460	YIR021W	S. cerevisiae	MRS1	Mitochondrial RNA Splicing	1092	Lipid metabolism-coding genes
+S000001472	YIR033W	S. cerevisiae	MGA2	Multicopy suppressor of GAm1 (snf2)	3342	Lipid metabolism-coding genes
+S000001503	YKL020C	S. cerevisiae	SPT23	SuPpressor of Ty	3249	Lipid metabolism-coding genes
+S000001512	YKL029C	S. cerevisiae	MAE1	MAlic Enzyme	2010	Lipid metabolism-coding genes
+S000001523	YKL040C	S. cerevisiae	NFU1	NifU-like protein	771	Lipid metabolism-coding genes
+S000001538	YKL055C	S. cerevisiae	OAR1	3-Oxoacyl-[Acyl-carrier-protein] Reductase	837	Lipid metabolism-coding genes
+S000001568	YKL085W	S. cerevisiae	MDH1	Malate DeHydrogenase	1005	Lipid metabolism-coding genes
+S000001577	YKL094W	S. cerevisiae	YJU3		942	Lipid metabolism-coding genes
+S000001589	YKL106W	S. cerevisiae	AAT1	Aspartate AminoTransferase	1356	Lipid metabolism-coding genes
+S000001615	YKL132C	S. cerevisiae	RMA1	Reduced Mating A	1293	Lipid metabolism-coding genes
+S000001617	YKL134C	S. cerevisiae	OCT1	OCTapeptidyl aminopeptidase	2319	Lipid metabolism-coding genes
+S000001665	YKL182W	S. cerevisiae	FAS1	Fatty Acid Synthetase	6156	Lipid metabolism-coding genes
+S000001670	YKL187C	S. cerevisiae	FAT3	FATty acid transporter 3	2253	Lipid metabolism-coding genes
+S000001671	YKL188C	S. cerevisiae	PXA2	PeroXisomal ABC-transporter	2562	Lipid metabolism-coding genes
+S000001675	YKL192C	S. cerevisiae	ACP1	Acyl Carrier Protein	378	Lipid metabolism-coding genes
+S000001677	YKL194C	S. cerevisiae	MST1	Mitochondrial aminoacyl-tRNA Synthetase, Threonine	1389	Lipid metabolism-coding genes
+S000001711	YKR003W	S. cerevisiae	OSH6	OxySterol binding protein Homolog	1347	Lipid metabolism-coding genes
+S000001717	YKR009C	S. cerevisiae	FOX2	Fatty acid OXidation	2703	Lipid metabolism-coding genes
+S000001739	YKR031C	S. cerevisiae	SPO14	SPOrulation	5052	Lipid metabolism-coding genes
+S000001774	YKR066C	S. cerevisiae	CCP1	Cytochrome c Peroxidase	1086	Lipid metabolism-coding genes
+S000001775	YKR067W	S. cerevisiae	GPT2	Glycerol-3-Phosphate acylTransferase	2232	Lipid metabolism-coding genes
+S000001797	YKR089C	S. cerevisiae	TGL4	TriacylGlycerol Lipase	2733	Lipid metabolism-coding genes
+S000001858	YFL036W	S. cerevisiae	RPO41	RNA POlymerase	4056	Lipid metabolism-coding genes
+S000001876	YFL018C	S. cerevisiae	LPD1	LiPoamide Dehydrogenase	1500	Lipid metabolism-coding genes
+S000001878	YFL016C	S. cerevisiae	MDJ1	Mitochondrial DnaJ	1536	Lipid metabolism-coding genes
+S000002133	YCR079W	S. cerevisiae	PTC6	Phosphatase Two C	1329	Lipid metabolism-coding genes
+S000002173	YDL015C	S. cerevisiae	TSC13	Temperature-sensitive Suppressors of Csg2 mutants	933	Lipid metabolism-coding genes
+S000002202	YDL044C	S. cerevisiae	MTF2	Mitochondrial Transcription Factor	1323	Lipid metabolism-coding genes
+S000002210	YDL052C	S. cerevisiae	SLC1	SphingoLipid Compensation	912	Lipid metabolism-coding genes
+S000002215	YDL057W	S. cerevisiae	NA		987	Lipid metabolism-coding genes
+S000002236	YDL078C	S. cerevisiae	MDH3	Malate DeHydrogenase	1032	Lipid metabolism-coding genes
+S000002265	YDL107W	S. cerevisiae	MSS2	Mitochondrial Splicing	1056	Lipid metabolism-coding genes
+S000002267	YDL109C	S. cerevisiae	NA		1944	Lipid metabolism-coding genes
+S000002278	YDL120W	S. cerevisiae	YFH1	Yeast Frataxin Homolog	525	Lipid metabolism-coding genes
+S000002291	YDL133W	S. cerevisiae	SRF1	Spo14 Regulatory Factor	1314	Lipid metabolism-coding genes
+S000002301	YDL142C	S. cerevisiae	CRD1	CaRDiolipin synthase	852	Lipid metabolism-coding genes
+S000002337	YDL178W	S. cerevisiae	DLD2	D-Lactate Dehydrogenase	1593	Lipid metabolism-coding genes
+S000002425	YDR018C	S. cerevisiae	NA		1191	Lipid metabolism-coding genes
+S000002443	YDR036C	S. cerevisiae	EHD3		1503	Lipid metabolism-coding genes
+S000002530	YDR123C	S. cerevisiae	INO2	INOsitol requiring	915	Lipid metabolism-coding genes
+S000002554	YDR147W	S. cerevisiae	EKI1	Ethanolamine KInase	1605	Lipid metabolism-coding genes
+S000002593	YDR185C	S. cerevisiae	UPS3	UnProceSsed	540	Lipid metabolism-coding genes
+S000002599	YDR191W	S. cerevisiae	HST4	Homolog of SIR Two (SIR2)	1113	Lipid metabolism-coding genes
+S000002602	YDR194C	S. cerevisiae	MSS116	Mitochondrial Splicing System	1995	Lipid metabolism-coding genes
+S000002624	YDR216W	S. cerevisiae	ADR1	Alcohol Dehydrogenase II synthesis Regulator	3972	Lipid metabolism-coding genes
+S000002640	YDR232W	S. cerevisiae	HEM1	HEMe biosynthesis	1647	Lipid metabolism-coding genes
+S000002664	YDR256C	S. cerevisiae	CTA1	CaTalase A	1548	Lipid metabolism-coding genes
+S000002666	YDR258C	S. cerevisiae	HSP78	Heat Shock Protein	2436	Lipid metabolism-coding genes
+S000002676	YDR268W	S. cerevisiae	MSW1	Mitochondrial aminoacyl-tRNA Synthetase, tryptophan (W)	1140	Lipid metabolism-coding genes
+S000002684	YDR276C	S. cerevisiae	PMP3	Plasma Membrane Proteolipid	168	Lipid metabolism-coding genes
+S000002702	YDR294C	S. cerevisiae	DPL1	Dihydrosphingosine Phosphate Lyase	1770	Lipid metabolism-coding genes
+S000002740	YDR332W	S. cerevisiae	IRC3	Increased Recombination Centers	2070	Lipid metabolism-coding genes
+S000002852	YDR444W	S. cerevisiae	NA		2064	Lipid metabolism-coding genes
+S000002901	YDR493W	S. cerevisiae	MZM1	Mitochondrial Zinc Maintenance	372	Lipid metabolism-coding genes
+S000002919	YDR511W	S. cerevisiae	SDH7	Succinate DeHydrogenase	402	Lipid metabolism-coding genes
+S000002939	YDR531W	S. cerevisiae	CAB1	Coenzyme A Biosynthesis	1104	Lipid metabolism-coding genes
+S000002980	YGL012W	S. cerevisiae	ERG4	ERGosterol biosynthesis	1422	Lipid metabolism-coding genes
+S000002986	YGL018C	S. cerevisiae	JAC1	J-type Accessory Chaperone	555	Lipid metabolism-coding genes
+S000003023	YGL055W	S. cerevisiae	OLE1	OLEic acid requiring	1533	Lipid metabolism-coding genes
+S000003027	YGL059W	S. cerevisiae	PKP2	Protein Kinase of PDH	1476	Lipid metabolism-coding genes
+S000003032	YGL064C	S. cerevisiae	MRH4	Mitochondrial RNA Helicase	1686	Lipid metabolism-coding genes
+S000003087	YGL119W	S. cerevisiae	COQ8	COenzyme Q	1506	Lipid metabolism-coding genes
+S000003094	YGL126W	S. cerevisiae	SCS3	Suppressor of Choline Sensitivity	1143	Lipid metabolism-coding genes
+S000003112	YGL144C	S. cerevisiae	ROG1	Revertant Of Glycogen synthase kinase mutation	2058	Lipid metabolism-coding genes
+S000003173	YGL205W	S. cerevisiae	POX1		2247	Lipid metabolism-coding genes
+S000003239	YGR007W	S. cerevisiae	ECT1	Ethanolamine-phosphate CytidylylTransferase	972	Lipid metabolism-coding genes
+S000003269	YGR037C	S. cerevisiae	ACB1	Acyl-CoA-Binding	264	Lipid metabolism-coding genes
+S000003278	YGR046W	S. cerevisiae	TAM41	Translocator Assembly and Maintenance	1158	Lipid metabolism-coding genes
+S000003297	YGR065C	S. cerevisiae	VHT1	Vitamin H Transporter	1782	Lipid metabolism-coding genes
+S000003389	YGR157W	S. cerevisiae	CHO2	CHOline requiring	2610	Lipid metabolism-coding genes
+S000003402	YGR170W	S. cerevisiae	PSD2	PhosphatidylSerine Decarboxylase	3417	Lipid metabolism-coding genes
+S000003403	YGR171C	S. cerevisiae	MSM1	Mitochondrial aminoacyl-tRNA Synthetase, Methionine	1728	Lipid metabolism-coding genes
+S000003425	YGR193C	S. cerevisiae	PDX1	Pyruvate Dehydrogenase complex protein X	1233	Lipid metabolism-coding genes
+S000003434	YGR202C	S. cerevisiae	PCT1	Phosphocholine CytidylylTransferase	1275	Lipid metabolism-coding genes
+S000003439	YGR207C	S. cerevisiae	CIR1	Changed Intracellular Redox state	786	Lipid metabolism-coding genes
+S000003454	YGR222W	S. cerevisiae	PET54	PETite colonies	882	Lipid metabolism-coding genes
+S000003466	YGR234W	S. cerevisiae	YHB1	Yeast flavoHemogloBin	1200	Lipid metabolism-coding genes
+S000003560	YJL023C	S. cerevisiae	PET130	PETite colonies	1044	Lipid metabolism-coding genes
+S000003607	YJL071W	S. cerevisiae	ARG2	ARGinine requiring	1725	Lipid metabolism-coding genes
+S000003633	YJL097W	S. cerevisiae	PHS1	PTPLA Homolog involved in Sphingolipid biosynthesis 1	654	Lipid metabolism-coding genes
+S000003689	YJL153C	S. cerevisiae	INO1	INOsitol requiring	1602	Lipid metabolism-coding genes
+S000003732	YJL196C	S. cerevisiae	ELO1	ELOngation defective	933	Lipid metabolism-coding genes
+S000003780	YJR019C	S. cerevisiae	TES1	ThioESterase	1050	Lipid metabolism-coding genes
+S000003806	YJR045C	S. cerevisiae	SSC1	Stress-Seventy subfamily C	1965	Lipid metabolism-coding genes
+S000003834	YJR073C	S. cerevisiae	OPI3	OverProducer of Inositol	621	Lipid metabolism-coding genes
+S000003883	YJR122W	S. cerevisiae	IBA57	Iron-sulfur cluster assembly factor for Biotin synthase and Aconitase-like mitochondrial proteins	1494	Lipid metabolism-coding genes
+S000003950	YLL027W	S. cerevisiae	ISA1	Iron Sulfur Assembly	753	Lipid metabolism-coding genes
+S000004064	YLR074C	S. cerevisiae	BUD20	BUD site selection	501	Lipid metabolism-coding genes
+S000004079	YLR089C	S. cerevisiae	ALT1	ALanine Transaminase	1779	Lipid metabolism-coding genes
+S000004089	YLR099C	S. cerevisiae	ICT1	Increased Copper Tolerance	1185	Lipid metabolism-coding genes
+S000004108	YLR118C	S. cerevisiae	TML25	acyl-protein Thioesterase with Multiple Localizations, protein of 25 kDa	684	Lipid metabolism-coding genes
+S000004123	YLR133W	S. cerevisiae	CKI1	Choline KInase	1749	Lipid metabolism-coding genes
+S000004132	YLR142W	S. cerevisiae	PUT1	Proline UTilization	1431	Lipid metabolism-coding genes
+S000004141	YLR151C	S. cerevisiae	PCD1	Peroxisomal Coenzyme A Diphosphatase	1023	Lipid metabolism-coding genes
+S000004153	YLR163C	S. cerevisiae	MAS1	Mitochondrial ASsembly	1389	Lipid metabolism-coding genes
+S000004158	YLR168C	S. cerevisiae	UPS2	UnProceSsed	693	Lipid metabolism-coding genes
+S000004183	YLR193C	S. cerevisiae	UPS1	UnProceSsed	528	Lipid metabolism-coding genes
+S000004232	YLR242C	S. cerevisiae	ARV1	ARE2 Required for Viability	966	Lipid metabolism-coding genes
+S000004249	YLR259C	S. cerevisiae	HSP60	Heat Shock Protein	1719	Lipid metabolism-coding genes
+S000004274	YLR284C	S. cerevisiae	ECI1	Enoyl-CoA Isomerase	843	Lipid metabolism-coding genes
+S000004280	YLR289W	S. cerevisiae	GUF1	Gtpase of Unknown Function	1938	Lipid metabolism-coding genes
+S000004295	YLR304C	S. cerevisiae	ACO1	ACOnitase	2337	Lipid metabolism-coding genes
+S000004361	YLR369W	S. cerevisiae	SSQ1	Stress-Seventy subfamily Q	1974	Lipid metabolism-coding genes
+S000004364	YLR372W	S. cerevisiae	ELO3	fatty acid ELOngation	1038	Lipid metabolism-coding genes
+S000004372	YLR380W	S. cerevisiae	CSR1	Chs5 Spa2 Rescue	1227	Lipid metabolism-coding genes
+S000004374	YLR382C	S. cerevisiae	NAM2	Nuclear Accommodation of Mitochondria	2685	Lipid metabolism-coding genes
+S000004396	YLR404W	S. cerevisiae	SEI1	SEIpin	858	Lipid metabolism-coding genes
+S000004506	YML042W	S. cerevisiae	CAT2	Carnitine AcetylTransferase	2013	Lipid metabolism-coding genes
+S000004543	YML078W	S. cerevisiae	CPR3	Cyclosporin A-sensitive Proline Rotamase	549	Lipid metabolism-coding genes
+S000004556	YML091C	S. cerevisiae	RPM2	RNase P Mitochondrial	3609	Lipid metabolism-coding genes
+S000004578	YML110C	S. cerevisiae	COQ5	COenzyme Q	924	Lipid metabolism-coding genes
+S000004589	YML120C	S. cerevisiae	NDI1	NADH Dehydrogenase Internal	1542	Lipid metabolism-coding genes
+S000004598	YML129C	S. cerevisiae	COX14	Cytochrome c OXidase	213	Lipid metabolism-coding genes
+S000004608	YMR006C	S. cerevisiae	PLB2	PhosphoLipase B	2121	Lipid metabolism-coding genes
+S000004610	YMR008C	S. cerevisiae	PLB1	PhosphoLipase B	1995	Lipid metabolism-coding genes
+S000004619	YMR017W	S. cerevisiae	SPO20	SPOrulation	1194	Lipid metabolism-coding genes
+S000004666	YMR062C	S. cerevisiae	ARG7	ARGinine requiring	1326	Lipid metabolism-coding genes
+S000004688	YMR083W	S. cerevisiae	ADH3	Alcohol DeHydrogenase	1128	Lipid metabolism-coding genes
+S000004716	YMR110C	S. cerevisiae	HFD1	Homolog of Fatty aldehyde Dehydrogenase	1599	Lipid metabolism-coding genes
+S000004719	YMR113W	S. cerevisiae	FOL3	FOLic acid synthesis	1284	Lipid metabolism-coding genes
+S000004775	YMR165C	S. cerevisiae	PAH1	Phosphatidic Acid phosphoHydrolase	2589	Lipid metabolism-coding genes
+S000004795	YMR183C	S. cerevisiae	SSO2	Supressor of Sec One	888	Lipid metabolism-coding genes
+S000004820	YMR207C	S. cerevisiae	HFA1		6372	Lipid metabolism-coding genes
+S000004821	YMR208W	S. cerevisiae	ERG12	ERGosterol biosynthesis	1332	Lipid metabolism-coding genes
+S000004823	YMR210W	S. cerevisiae	MGL2	MonoacylGlycerol Lipase	1350	Lipid metabolism-coding genes
+S000004833	YMR220W	S. cerevisiae	ERG8	ERGosterol biosynthesis	1356	Lipid metabolism-coding genes
+S000004841	YMR228W	S. cerevisiae	MTF1	Mitochondrial Transcription Factor	1026	Lipid metabolism-coding genes
+S000004860	YMR246W	S. cerevisiae	FAA4	Fatty Acid Activation	2085	Lipid metabolism-coding genes
+S000004870	YMR257C	S. cerevisiae	PET111	PETite colonies	2403	Lipid metabolism-coding genes
+S000004885	YMR272C	S. cerevisiae	SCS7	Suppressor of Ca2+ Sensitivity	1155	Lipid metabolism-coding genes
+S000004900	YMR287C	S. cerevisiae	DSS1	Deletion of SUV3 Supressor	2910	Lipid metabolism-coding genes
+S000004954	YNL009W	S. cerevisiae	IDP3	Isocitrate Dehydrogenase, NADP-dependent	1263	Lipid metabolism-coding genes
+S000004957	YNL012W	S. cerevisiae	SPO1	SPOrulation	1980	Lipid metabolism-coding genes
+S000004982	YNL037C	S. cerevisiae	IDH1	Isocitrate DeHydrogenase	1083	Lipid metabolism-coding genes
+S000005010	YNL066W	S. cerevisiae	SUN4	Sim1 Uth1 Nca3	1263	Lipid metabolism-coding genes
+S000005015	YNL071W	S. cerevisiae	LAT1		1449	Lipid metabolism-coding genes
+S000005017	YNL073W	S. cerevisiae	MSK1	Mitochondrial aminoacyl-tRNA Synthetase, lysine (K)	1731	Lipid metabolism-coding genes
+S000005074	YNL130C	S. cerevisiae	CPT1	CholinePhosphoTransferase	1274	Lipid metabolism-coding genes
+S000005113	YNL169C	S. cerevisiae	PSD1	PhosphatidylSerine Decarboxylase	1503	Lipid metabolism-coding genes
+S000005146	YNL202W	S. cerevisiae	SPS19	SPorulation-Specific	879	Lipid metabolism-coding genes
+S000005254	YNL310C	S. cerevisiae	ZIM17	ZInc finger Motif protein of 17 kDa	525	Lipid metabolism-coding genes
+S000005270	YNL326C	S. cerevisiae	PFA3	Protein Fatty Acyltransferase	1011	Lipid metabolism-coding genes
+S000005284	YNR001C	S. cerevisiae	CIT1	CITrate synthase	1440	Lipid metabolism-coding genes
+S000005299	YNR016C	S. cerevisiae	ACC1	Acetyl-CoA Carboxylase	6702	Lipid metabolism-coding genes
+S000005362	YOL002C	S. cerevisiae	IZH2	Implicated in Zinc Homeostasis	954	Lipid metabolism-coding genes
+S000005363	YOL003C	S. cerevisiae	PFA4	Protein Fatty Acyltransferase	1137	Lipid metabolism-coding genes
+S000005371	YOL011W	S. cerevisiae	PLB3	PhosphoLipase B	2061	Lipid metabolism-coding genes
+S000005392	YOL032W	S. cerevisiae	OPI10	OverProducer of Inositol	741	Lipid metabolism-coding genes
+S000005393	YOL033W	S. cerevisiae	MSE1	Mitochondrial aminoacyl-tRNA Synthetase, Glutamate (E)	1611	Lipid metabolism-coding genes
+S000005432	YOL071W	S. cerevisiae	SDH5	Succinate DeHydrogenase	489	Lipid metabolism-coding genes
+S000005455	YOL095C	S. cerevisiae	HMI1	Helicase in MItochondria	2121	Lipid metabolism-coding genes
+S000005461	YOL101C	S. cerevisiae	IZH4	Implicated in Zinc Homeostasis	939	Lipid metabolism-coding genes
+S000005468	YOL108C	S. cerevisiae	INO4	INOsitol requiring	456	Lipid metabolism-coding genes
+S000005500	YOL140W	S. cerevisiae	ARG8	ARGinine requiring	1272	Lipid metabolism-coding genes
+S000005507	YOL147C	S. cerevisiae	PEX11	PEroXin	711	Lipid metabolism-coding genes
+S000005546	YOR020C	S. cerevisiae	HSP10	Heat Shock Protein	321	Lipid metabolism-coding genes
+S000005548	YOR022C	S. cerevisiae	DDL1	DDHD Domain-containing Lipase	2148	Lipid metabolism-coding genes
+S000005551	YOR025W	S. cerevisiae	HST3	Homolog of SIR Two (SIR2)	1344	Lipid metabolism-coding genes
+S000005566	YOR040W	S. cerevisiae	GLO4	GLyOxalase	858	Lipid metabolism-coding genes
+S000005607	YOR081C	S. cerevisiae	TGL5	TriacylGlycerol Lipase	2250	Lipid metabolism-coding genes
+S000005626	YOR100C	S. cerevisiae	CRC1	CaRnitine Carrier	984	Lipid metabolism-coding genes
+S000005662	YOR136W	S. cerevisiae	IDH2	Isocitrate DeHydrogenase	1110	Lipid metabolism-coding genes
+S000005701	YOR175C	S. cerevisiae	ALE1	Acyltransferase for Lyso-phosphatidylEthanolamine	1860	Lipid metabolism-coding genes
+S000005706	YOR180C	S. cerevisiae	DCI1	delta(3,5)-delta(2,4)-Dienoyl-CoA Isomerase	816	Lipid metabolism-coding genes
+S000005747	YOR221C	S. cerevisiae	MCT1	Malonyl-CoA:ACP Transferase	1083	Lipid metabolism-coding genes
+S000005752	YOR226C	S. cerevisiae	ISU2	IscU homolog	471	Lipid metabolism-coding genes
+S000005758	YOR232W	S. cerevisiae	MGE1	Mitochondrial GrpE	687	Lipid metabolism-coding genes
+S000005767	YOR241W	S. cerevisiae	MET7	METhionine requiring	1647	Lipid metabolism-coding genes
+S000005838	YOR311C	S. cerevisiae	DGK1	DiacylGlycerol Kinase	873	Lipid metabolism-coding genes
+S000005844	YOR317W	S. cerevisiae	FAA1	Fatty Acid Activation	2103	Lipid metabolism-coding genes
+S000005877	YOR350C	S. cerevisiae	MNE1		1992	Lipid metabolism-coding genes
+S000005881	YOR354C	S. cerevisiae	MSC6	Meiotic Sister-Chromatid recombination	2079	Lipid metabolism-coding genes
+S000005890	YOR363C	S. cerevisiae	PIP2	Peroxisome Induction Pathway	2991	Lipid metabolism-coding genes
+S000005901	YOR374W	S. cerevisiae	ALD4	ALdehyde Dehydrogenase	1560	Lipid metabolism-coding genes
+S000005949	YPL028W	S. cerevisiae	ERG10	ERGosterol biosynthesis	1197	Lipid metabolism-coding genes
+S000005950	YPL029W	S. cerevisiae	SUV3	SUppressor of Var1	2214	Lipid metabolism-coding genes
+S000005961	YPL040C	S. cerevisiae	ISM1	Isoleucyl tRNA Synthetase of Mitochondria	3009	Lipid metabolism-coding genes
+S000005980	YPL059W	S. cerevisiae	GRX5	GlutaRedoXin	453	Lipid metabolism-coding genes
+S000006008	YPL087W	S. cerevisiae	YDC1	Yeast DihydroCeramidase	954	Lipid metabolism-coding genes
+S000006016	YPL095C	S. cerevisiae	EEB1	Ethyl Ester Biosynthesis	1371	Lipid metabolism-coding genes
+S000006018	YPL097W	S. cerevisiae	MSY1	Mitochondrial aminoacyl-tRNA Synthetase, tyrosine (Y)	1479	Lipid metabolism-coding genes
+S000006024	YPL103C	S. cerevisiae	FMP30	Found in Mitochondrial Proteome	1407	Lipid metabolism-coding genes
+S000006025	YPL104W	S. cerevisiae	MSD1	Mitochondrial aminoacyl-tRNA Synthetase, Aspartate (D)	1977	Lipid metabolism-coding genes
+S000006056	YPL135W	S. cerevisiae	ISU1	IScU homolog	498	Lipid metabolism-coding genes
+S000006062	YPL141C	S. cerevisiae	FRK1	Fatty acyl-CoA synthetase and RNA processing-associated Kinase	2598	Lipid metabolism-coding genes
+S000006066	YPL145C	S. cerevisiae	KES1	KrE11-1 Suppressor	1305	Lipid metabolism-coding genes
+S000006068	YPL147W	S. cerevisiae	PXA1	PeroXisomal ABC-transporter	2613	Lipid metabolism-coding genes
+S000006069	YPL148C	S. cerevisiae	PPT2	Phosphopantetheine:Protein Transferase	522	Lipid metabolism-coding genes
+S000006109	YPL188W	S. cerevisiae	POS5	PerOxide Sensitive	1245	Lipid metabolism-coding genes
+S000006152	YPL231W	S. cerevisiae	FAS2	Fatty Acid Synthetase	5664	Lipid metabolism-coding genes
+S000006153	YPL232W	S. cerevisiae	SSO1	Supressor of Sec One	873	Lipid metabolism-coding genes
+S000006173	YPL252C	S. cerevisiae	YAH1	Yeast Adrenodoxin Homolog	519	Lipid metabolism-coding genes
+S000006183	YPL262W	S. cerevisiae	FUM1	FUMarase	1467	Lipid metabolism-coding genes
+S000006187	YPL266W	S. cerevisiae	DIM1	DIMethylase	957	Lipid metabolism-coding genes
+S000006189	YPL268W	S. cerevisiae	PLC1	PhosphoLipase C	2610	Lipid metabolism-coding genes
+S000006208	YPR004C	S. cerevisiae	AIM45	Altered Inheritance rate of Mitochondria	1035	Lipid metabolism-coding genes
+S000006210	YPR006C	S. cerevisiae	ICL2	IsoCitrate Lyase	1728	Lipid metabolism-coding genes
+S000006251	YPR047W	S. cerevisiae	MSF1	Mitochondrial aminoacyl-tRNA Synthetase, Phenylalanine (F)	1410	Lipid metabolism-coding genes
+S000006271	YPR067W	S. cerevisiae	ISA2	Iron Sulfur Assembly	558	Lipid metabolism-coding genes
+S000006317	YPR113W	S. cerevisiae	PIS1	Phosphatidyl Inositol Synthase	663	Lipid metabolism-coding genes
+S000006332	YPR128C	S. cerevisiae	ANT1	Adenine Nucleotide Transporter	987	Lipid metabolism-coding genes
+S000006343	YPR139C	S. cerevisiae	LOA1	Lysophosphatidic acid: Oleoyl-CoA Acyltransferase	903	Lipid metabolism-coding genes
+S000006344	YPR140W	S. cerevisiae	TAZ1	TAfaZzin	1146	Lipid metabolism-coding genes
+S000006430	YDL045W-A	S. cerevisiae	MRP10	Mitochondrial Ribosomal Protein	288	Lipid metabolism-coding genes
+S000007237	YER048W-A	S. cerevisiae	ISD11	Iron-Sulfur protein biogenesis, Desulfurase-interacting protein	285	Lipid metabolism-coding genes
+S000007521	YBR058C-A	S. cerevisiae	TSC3	Temperature-sensitive Suppressors of Csg2 mutants	243	Lipid metabolism-coding genes
+S000007586	YAL044W-A	S. cerevisiae	BOL1	BolA-like protein	333	Lipid metabolism-coding genes
+S000007605	YDR379C-A	S. cerevisiae	SDH6		240	Lipid metabolism-coding genes
+S000028527	YPL189C-A	S. cerevisiae	COA2	Cytochrome Oxidase Assembly	207	Lipid metabolism-coding genes
+S000000644	YCR048W	S. cerevisiae	ARE1	Acyl-coenzyme A: cholesterol acyl transferase-Related Enzyme	1833	Lipid metabolism-coding genes
+S000000846	YER044C	S. cerevisiae	ERG28	ERGosterol biosynthesis	447	Lipid metabolism-coding genes
+S000001049	YHR007C	S. cerevisiae	ERG11	ERGosterol biosynthesis	1593	Lipid metabolism-coding genes
+S000001084	YHR042W	S. cerevisiae	NCP1	NADP-Cytochrome P450 reductase	2076	Lipid metabolism-coding genes
+S000001114	YHR072W	S. cerevisiae	ERG7	ERGosterol biosynthesis	2196	Lipid metabolism-coding genes
+S000001233	YHR190W	S. cerevisiae	ERG9	ERGosterol biosynthesis	1335	Lipid metabolism-coding genes
+S000001633	YKL150W	S. cerevisiae	MCR1	Mitochondrial NADH-Cytochrome b5 Reductase	909	Lipid metabolism-coding genes
+S000002375	YDL216C	S. cerevisiae	RRI1	Regulator of Rub1 specific Isopeptidase	1323	Lipid metabolism-coding genes
+S000002458	YDR051C	S. cerevisiae	DET1	Decreased Ergosterol Transport	1005	Lipid metabolism-coding genes
+S000002621	YDR213W	S. cerevisiae	UPC2	UPtake Control	2742	Lipid metabolism-coding genes
+S000002969	YGL001C	S. cerevisiae	ERG26	ERGosterol biosynthesis	1050	Lipid metabolism-coding genes
+S000003292	YGR060W	S. cerevisiae	ERG25	ERGosterol biosynthesis	930	Lipid metabolism-coding genes
+S000003407	YGR175C	S. cerevisiae	ERG1	ERGosterol biosynthesis	1491	Lipid metabolism-coding genes
+S000003703	YJL167W	S. cerevisiae	ERG20	ERGosterol biosynthesis	1059	Lipid metabolism-coding genes
+S000003929	YLL006W	S. cerevisiae	MMM1	Maintenance of Mitochondrial Morphology	1281	Lipid metabolism-coding genes
+S000004046	YLR056W	S. cerevisiae	ERG3	ERGosterol biosynthesis	1098	Lipid metabolism-coding genes
+S000004090	YLR100W	S. cerevisiae	ERG27	ERGosterol biosynthesis	1044	Lipid metabolism-coding genes
+S000004218	YLR228C	S. cerevisiae	ECM22	ExtraCellular Mutant	2445	Lipid metabolism-coding genes
+S000004442	YLR450W	S. cerevisiae	HMG2	3-Hydroxy-3-MethylGlutaryl-coenzyme a reductase	3138	Lipid metabolism-coding genes
+S000004467	YML008C	S. cerevisiae	ERG6	ERGosterol biosynthesis	1152	Lipid metabolism-coding genes
+S000004540	YML075C	S. cerevisiae	HMG1	3-Hydroxy-3-MethylGlutaryl-coenzyme a reductase	3165	Lipid metabolism-coding genes
+S000004595	YML126C	S. cerevisiae	ERG13	ERGosterol biosynthesis	1476	Lipid metabolism-coding genes
+S000004617	YMR015C	S. cerevisiae	ERG5	ERGosterol biosynthesis	1617	Lipid metabolism-coding genes
+S000004674	YMR070W	S. cerevisiae	MOT3	Modifier of Transcription	1473	Lipid metabolism-coding genes
+S000004741	YMR134W	S. cerevisiae	ERG29	ERGosterol biosynthesis	714	Lipid metabolism-coding genes
+S000004815	YMR202W	S. cerevisiae	ERG2	ERGosterol biosynthesis	669	Lipid metabolism-coding genes
+S000005224	YNL280C	S. cerevisiae	ERG24	ERGosterol biosynthesis	1317	Lipid metabolism-coding genes
+S000005244	YNL300W	S. cerevisiae	TOS6		309	Lipid metabolism-coding genes
+S000005302	YNR019W	S. cerevisiae	ARE2	Acyl-coenzyme A: cholesterol acyl transferase-Related Enzyme	1929	Lipid metabolism-coding genes
+S000005511	YOL151W	S. cerevisiae	GRE2	Genes de Respuesta a Estres (stress responsive genes)	1029	Lipid metabolism-coding genes
+S000005763	YOR237W	S. cerevisiae	HES1	Homologous to kES1	1305	Lipid metabolism-coding genes
+S000005800	YOR274W	S. cerevisiae	MOD5	tRNA MODification	1287	Lipid metabolism-coding genes
+S000006086	YPL165C	S. cerevisiae	SET6	SET domain-containing	1122	Lipid metabolism-coding genes
+S000006091	YPL170W	S. cerevisiae	DAP1	DAmage resistance Protein	459	Lipid metabolism-coding genes
