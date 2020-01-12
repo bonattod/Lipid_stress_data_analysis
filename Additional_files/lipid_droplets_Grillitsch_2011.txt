@@ -1,0 +1,95 @@
+rownames(lipid_droplets)	Feature	Genes	SGD	GFP	YPL	This_study	D	O	Localization_SGD	Description
+1	ACH1	YBL015W	NA	NA	NA	Yes	NA	2	C/M	CoA transferase activity
+2	ADH1	YOL086C	NA	NA	NA	Yes	NA	2	C/PM	Alcohol dehydrogenase
+3	ALG9	YNL219C	NA	NA	NA	Yes	2	NA	ER	Mannosyltransferase
+4	ATF1	YOR377W	Yes	NA	NA	NA	NA	NA	LP/End	Alcohol acyltransferase
+5	ATP2	YJR121W	NA	NA	NA	Yes	NA	9	M	Subunit of mitochondria ATP synthase
+6	AYR1	YIL124W	Yes	NA	Yes	Yes	15	12	C/ER/LP/M	NADPH-dependent 1-acyl dihydroxyacetone phosphate reductase
+7	BSC2	YDR275W	Yes	Yes	NA	NA	NA	NA	LP	Unknown
+8	COY1	YKL179C	NA	Yes	NA	NA	NA	NA	G	Golgi membrane protein
+9	CPR5	YDR304C	NA	NA	NA	Yes	7	3	C/ER	Peptidyl-prolyl cis-trans isomerase
+10	CSR1	YLR380W	Yes	NA	NA	NA	NA	NA	LP/C/M/Mic	Phosphatidylinositol transfer protein
+11	CST26	YBR042C	Yes	Yes	Yes	NA	NA	NA	LP	Required for incorporation of stearic acid into phosphatidylinositol
+12	CWH43	YCR017C	NA	NA	NA	Yes	2	NA	PM	Putative sensor/transporter protein
+13	DFM1	YDR411C	NA	NA	NA	Yes	2	NA	ER	ER localized derlin-like family member
+14	DGA1	YOR245C	Yes	NA	NA	Yes	NA	3	LP	Diacylglycerol acyltransferase
+15	DPL1	YDR294C	NA	NA	NA	Yes	2	NA	ER	Dihydrosphingosine phosphate lyase
+16	DPM1	YPR183W	NA	NA	NA	Yes	2	NA	ER/M	Dolichol phosphate mannose synthase
+17	EHT1	YBR177C	Yes	NA	Yes	Yes	19	18	LP/M	Acyl-coenzymeA:ethanol O-acyltransferase
+18	ENO2	YHR174W	NA	NA	NA	Yes	NA	2	V/PM/M	Enolase II
+19	ERG1	YGR175C	Yes	NA	Yes	Yes	5	15	ER/LP	Squalene epoxidase
+20	ERG6	YML008C	Yes	Yes	Yes	Yes	37	30	ER/LP/M	Delta(24)-sterol C-methyltransferase
+21	ERG7	YHR072W	Yes	Yes	Yes	Yes	7	2	ER/LP/PM	Lanosterol synthase
+22	ERG27	YLR100W	Yes	Yes	Yes	Yes	9	4	ER/M	3-Keto sterol reductase
+23	FAA1	YOR317W	Yes	NA	NA	Yes	20	15	LP/PM/M	Long chain fatty acyl-CoA synthetase
+24	FAA3	YIL009W	NA	NA	NA	Yes	3	NA	unknown	Long chain fatty acyl-CoA synthetase
+25	FAA4	YMR246W	Yes	Yes	Yes	Yes	13	6	LP/C	Long chain fatty acyl-CoA synthetase
+26	FAS1	YKL182W	Yes	NA	NA	NA	NA	NA	LP/C/M	Fatty acid synthetase
+27	FAT1	YBR041W	Yes	Yes	Yes	Yes	13	9	PM/LP/Mic/PX	Fatty acid transporter
+28	FMP52	YER004W	NA	NA	NA	Yes	NA	4	ER/M	Unknown
+29	GPT2	YKR067W	NA	NA	NA	Yes	12	NA	C/ER	sn-1 Acyltransferase
+30	GTT1	YIR038C	NA	NA	NA	Yes	2	8	ER/M/PM	Glutathione S-transferase
+31	GVP36	YIL041W	NA	NA	NA	Yes	NA	3	C/G	BAR domain-containing protein
+32	HFD1	YMR110C	Yes	Yes	NA	Yes	7	18	M/LP/End	Putative fatty aldehyde dehydrogenase
+33	HSP12	YFL014W	NA	NA	NA	Yes	NA	6	C/PM/N	Heat shock protein
+34	KAR2	YJL034W	NA	NA	NA	Yes	9	NA	ER	ATPase
+35	LAP4	YKL103C	NA	NA	NA	Yes	NA	3	V	Vacuolar aminopeptidase
+36	LDB16	YCL005W	Yes	Yes	NA	NA	NA	NA	LP/M	Unknown
+37	MSC1	YML128C	NA	NA	NA	Yes	2	NA	M/ER/PM	Unknown
+38	NUS1	YDL193W	Yes	NA	Yes	Yes	9	4	ER/LP/nEnv	Putative prenyltransferase
+39	OSH4	YPL145C	NA	NA	NA	Yes	3	5	C/G/ext	Oxysterol binding protein
+40	OSW5	YMR148W	NA	Yes	NA	Yes	2	NA	mem	Unknown
+41	PDI1	YCL043C	NA	NA	NA	Yes	6	7	ER	Disulfide isomerase
+42	PDR16	YNL231C	Yes	Yes	NA	Yes	5	9	LP/Mic/PM/C	Phosphatidylinositol transfer protein
+43	PET10	YKR046C	Yes	Yes	Yes	Yes	12	24	LP	Unknown
+44	PGC1	YPL206C	Yes	NA	NA	Yes	9	NA	LP/M	Phosphatidylglycerol phospholipase C
+45	PIL1	YGR086C	Yes	NA	NA	NA	NA	NA	C/M/PM	Primary component of eisosomes
+46	PMA1	YGL008C	NA	NA	NA	Yes	NA	3	PM/M/mem	Plasma membrane H+−ATPase
+47	PMT1	YDL095W	NA	NA	NA	Yes	2	NA	ER	Protein O-mannosyltransferase
+48	PMT2	YAL023C	NA	NA	NA	Yes	3	NA	ER	Protein O-mannosyltransferase
+49	POR1	YNL055C	NA	NA	NA	Yes	NA	2	M	Mitochondrial porin
+50	POX1	YGL205W	NA	NA	NA	Yes	NA	3	PX	Fatty-acyl coenzyme A oxidase
+51	RHO1	YPR165W	NA	NA	NA	Yes	4	NA	mem/PX/PM/M/bud	GTP-binding protein
+52	RPL5	YPL131W	NA	NA	NA	Yes	NA	3	rib	Protein component of the large (60S) ribosomal subunit
+53	RPL10	YLR075W	NA	NA	NA	Yes	NA	2	rib	Protein component of the large (60S) ribosomal subunit
+54	RPS1B	YML063W	NA	NA	NA	Yes	NA	2	rib	Ribosomal protein 10 (rp10) of the small (40S) subunit
+55	RPS3	YNL178W	NA	NA	NA	Yes	NA	5	rib	Protein component of the small (40S) ribosomal subunit
+56	RPS19B	YNL302C	NA	NA	NA	Yes	2	NA	rib	Protein component of the small (40S) ribosomal subunit
+57	RPS31	YLR167W	NA	NA	NA	Yes	NA	4	rib/C	Fusion protein that is cleaved to yield a ribosomal protein of the small
+58	RRT8	YOL048C	Yes	Yes	NA	Yes	4	2	LP	Unknown
+59	RTN2	YDL204W	NA	NA	NA	Yes	3	NA	ER/nEnv	Unknown
+60	SEC61	YLR378C	NA	NA	NA	Yes	5	NA	ER	Essential subunit of Sec61 complex
+61	SEC63	YOR254C	NA	NA	NA	Yes	4	NA	ER/M	Essential subunit of Sec63 complex
+62	SHE10	YGL228W	NA	NA	NA	Yes	4	NA	unknown	Putative glycosylphosphatidylinositol (GPI)-anchored protein of
+63	SLC1	YDL052C	Yes	NA	Yes	Yes	2	3	LP	1-Acyl-sn-glycerol-3-phosphate acyltransferase
+64	SNA2	YDR525W-a	Yes	Yes	NA	NA	NA	NA	Mem/C	Unknown
+65	SNX41	YDR425W	NA	Yes	NA	NA	NA	NA	End	Sorting nexin
+66	SRT1	YMR101C	Yes	NA	NA	NA	NA	NA	LP	Cis-prenyltransferase
+67	SSA1	YAL005C	NA	NA	NA	Yes	NA	2	C/PM/N	ATPase
+68	SSO1	YPL232W	NA	Yes	NA	NA	NA	NA	PM	Plasma membrane t-snare
+69	TDH1	YJL052W	Yes	NA	NA	Yes	NA	4	C/LP/M/PM/CW	Glyceraldehyde-3-phosphate dehydrogenase, isozyme 1
+70	TDH2	YJR009C	Yes	NA	NA	NA	NA	NA	C/LP/M/PM/CW	Glyceraldehyde-3-phosphate dehydrogenase, isozyme 2
+71	TDH3	YGR192C	Yes	NA	NA	Yes	NA	5	C/LP/M/PM/CW	Glyceraldehyde-3-phosphate dehydrogenase, isozyme 3
+72	TEF1	YPR080W	NA	NA	NA	Yes	NA	5	M/R	Translational elongation factor EF-1 alpha
+73	TGL1	YKL140W	Yes	NA	NA	Yes	12	14	LP/mem	Steryl ester hydrolase
+74	TGL3	YMR313C	Yes	Yes	NA	Yes	4	5	LP	Triacylglycerol lipase
+75	TGL4	YKR089C	Yes	Yes	NA	Yes	3	4	LP	Triacylglycerol lipase
+76	TGL5	YOR081C	Yes	Yes	NA	Yes	5	3	LP	Triacylglycerol lipase
+77	USE1	YGL098W	NA	Yes	NA	NA	NA	NA	ER	SNARE protein
+78	TSC10	YBR265W	NA	NA	NA	Yes	2	NA	C/ER/M	3-ketosphinganine reductase
+79	TUB2	YFL037W	NA	NA	NA	Yes	NA	2	mTub	Beta-tubulin
+80	UBX2	YML013W	NA	NA	NA	Yes	5	3	ER/M	Protein involved in ER-associated protein degradation
+81	VPS66	YPR139C	NA	NA	NA	Yes	6	4	C	Cytoplasmic protein of unknown function involved in vacuolar protein sorting
+82	WBP1	YEL002C	NA	NA	NA	Yes	3	NA	ER/nEnv	Beta subunit of the oligosaccharyl transferase (OST) glycoprotein complex
+83	YBR204C	YBR204C	NA	NA	Yes	Yes	NA	3	unknown	Serine hydrolase
+84	YDR018C	YDR018C	NA	NA	Yes	NA	NA	NA	unknown	Similarity to acyltransferase
+85	YEH1	YLL012W	Yes	Yes	NA	NA	NA	NA	LP/mem	Steryl ester hydrolase
+86	YIM1	YMR152W	Yes	NA	Yes	Yes	NA	4	LP/C/M	Unknown
+87	YGR038C-B	YGR038C-B	NA	NA	NA	Yes	2	NA	Retro	Retrotransposon TYA Gag and TYB Pol genes
+88	YJU3	YKL094W	Yes	NA	Yes	Yes	3	2	LP/C/M/PM	Serine hydrolase
+89	YNL134C	YNL134C	NA	NA	NA	Yes	NA	2	C/N	Unknown
+90	YNL208W	YNL208W	NA	NA	NA	Yes	NA	3	M/R	Unknown
+91	YOR059C	YOR059C	Yes	NA	NA	NA	NA	NA	LP	Unknown
+92	YOR246C	YOR246C	Yes	Yes	NA	NA	NA	NA	LP	Similarity to oxidoreductase
+93	YPT7	YML001W	NA	NA	NA	Yes	4	2	V/M	GTPase
+94	ZEO1	YOL109W	NA	NA	NA	Yes	NA	9	M/PM/ext	Peripheral membrane protein
