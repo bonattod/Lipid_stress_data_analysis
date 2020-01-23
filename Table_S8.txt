@@ -1,0 +1,125 @@
+rownames(df_Cluster_all_wtc_BP2_analysis_selection_heatmap_1)	Description	Cluster	Freq
+1	Acyl-coa metabolic process	Cluster 9	5
+6	Antibiotic metabolic process	Cluster 9	8
+14	Autophagosome assembly	Cluster 12	9
+18	Autophagosome assembly	Cluster 6	9
+23	Autophagosome organization	Cluster 12	9
+25	Autophagosome organization	Cluster 6	9
+32	Autophagy	Cluster 4	19
+33	Autophagy	Cluster 12	19
+36	Autophagy	Cluster 5	19
+39	Autophagy	Cluster 6	19
+51	Autophagy of mitochondrion	Cluster 12	6
+57	Carbohydrate derivative metabolic process	Cluster 3	10
+58	Carbohydrate derivative metabolic process	Cluster 9	10
+59	Carbohydrate derivative metabolic process	Cluster 2	10
+60	Carbohydrate derivative metabolic process	Cluster 23	10
+67	Carbohydrate metabolic process	Cluster 9	6
+73	Carboxylic acid metabolic process	Cluster 9	22
+78	Carboxylic acid metabolic process	Cluster 2	22
+95	Cell communication	Cluster 6	13
+96	Cell communication	Cluster 4	13
+108	Cellular alcohol biosynthetic process	Cluster 31	10
+118	Cellular developmental process	Cluster 4	8
+126	Cellular lipid biosynthetic process	Cluster 31	10
+136	Cellular respiration	Cluster 3	5
+141	Cellular response to chemical stimulus	Cluster 4	13
+154	Chromatin organization	Cluster 4	5
+155	Chromatin organization	Cluster 14	5
+159	Cofactor metabolic process	Cluster 2	6
+165	Cytosolic transport	Cluster 6	5
+170	Developmental process	Cluster 4	8
+178	Endoplasmic reticulum unfolded protein response	Cluster 4	6
+181	Endoplasmic reticulum unfolded protein response	Cluster 6	6
+184	Ergosterol biosynthetic process	Cluster 31	10
+194	Ergosterol metabolic process	Cluster 31	10
+204	Establishment of protein localization to mitochondrion	Cluster 3	14
+218	Glycerolipid metabolic process	Cluster 1	8
+226	Golgi vesicle transport	Cluster 5	11
+227	Golgi vesicle transport	Cluster 6	11
+237	Membrane organization	Cluster 6	11
+238	Membrane organization	Cluster 3	11
+248	Mitochondrial membrane organization	Cluster 3	10
+254	Mitochondrial membrane organization	Cluster 23	10
+258	Mitochondrial transport	Cluster 3	13
+271	Mitochondrion disassembly	Cluster 12	6
+277	Mitochondrion organization	Cluster 3	18
+285	Mitochondrion organization	Cluster 23	18
+295	Modification-dependent protein catabolic process	Cluster 4	7
+302	Negative regulation of biosynthetic process	Cluster 4	5
+304	Negative regulation of biosynthetic process	Cluster 14	5
+307	Negative regulation of cellular metabolic process	Cluster 4	6
+313	Negative regulation of nitrogen compound metabolic process	Cluster 4	8
+314	Negative regulation of nitrogen compound metabolic process	Cluster 14	8
+321	Nucleobase-containing small molecule metabolic process	Cluster 9	8
+329	Organelle localization	Cluster 4	5
+332	Organelle localization	Cluster 5	5
+334	Organic hydroxy compound biosynthetic process	Cluster 4	18
+335	Organic hydroxy compound biosynthetic process	Cluster 31	18
+338	Organic hydroxy compound biosynthetic process	Cluster 9	18
+352	Organic hydroxy compound metabolic process	Cluster 9	14
+353	Organic hydroxy compound metabolic process	Cluster 1	14
+354	Organic hydroxy compound metabolic process	Cluster 31	14
+366	Organonitrogen compound catabolic process	Cluster 4	8
+374	Organophosphate metabolic process	Cluster 9	16
+375	Organophosphate metabolic process	Cluster 1	16
+390	Oxidation-reduction process	Cluster 2	33
+391	Oxidation-reduction process	Cluster 3	33
+392	Oxidation-reduction process	Cluster 24	33
+393	Oxidation-reduction process	Cluster 9	33
+396	Oxidation-reduction process	Cluster 23	33
+407	Oxidation-reduction process	Cluster 31	33
+423	Phytosteroid biosynthetic process	Cluster 31	10
+433	Phytosteroid metabolic process	Cluster 31	10
+443	Piecemeal microautophagy of the nucleus	Cluster 12	5
+448	Positive regulation of biosynthetic process	Cluster 14	11
+449	Positive regulation of biosynthetic process	Cluster 4	11
+459	Positive regulation of cellular biosynthetic process	Cluster 4	11
+460	Positive regulation of cellular biosynthetic process	Cluster 14	11
+470	Positive regulation of gene expression	Cluster 4	6
+476	Positive regulation of macromolecule biosynthetic process	Cluster 4	9
+479	Positive regulation of macromolecule biosynthetic process	Cluster 14	9
+485	Positive regulation of transcription by rna polymerase ii	Cluster 4	6
+491	Process utilizing autophagic mechanism	Cluster 12	19
+492	Process utilizing autophagic mechanism	Cluster 6	19
+494	Process utilizing autophagic mechanism	Cluster 5	19
+499	Process utilizing autophagic mechanism	Cluster 4	19
+510	Protein folding	Cluster 4	14
+524	Protein localization by the cvt pathway	Cluster 12	6
+529	Protein localization by the cvt pathway	Cluster 5	6
+530	Protein localization to mitochondrion	Cluster 3	14
+544	Protein localization to vacuole	Cluster 12	7
+547	Protein localization to vacuole	Cluster 5	7
+551	Protein targeting to membrane	Cluster 4	7
+558	Protein targeting to mitochondrion	Cluster 3	13
+571	Proteolysis	Cluster 4	12
+583	Pyridine-containing compound metabolic process	Cluster 9	5
+588	Regulation of catalytic activity	Cluster 4	7
+595	Regulation of lipid biosynthetic process	Cluster 4	5
+600	Regulation of molecular function	Cluster 4	7
+607	Regulation of response to stimulus	Cluster 4	5
+612	Response to abiotic stimulus	Cluster 4	11
+623	Response to endoplasmic reticulum stress	Cluster 4	10
+624	Response to endoplasmic reticulum stress	Cluster 6	10
+633	Response to nitrogen compound	Cluster 4	5
+638	Response to organic substance	Cluster 4	10
+648	Response to oxidative stress	Cluster 4	6
+653	Response to oxidative stress	Cluster 24	6
+654	Response to oxygen-containing compound	Cluster 4	6
+655	Response to oxygen-containing compound	Cluster 24	6
+660	Response to starvation	Cluster 4	5
+662	Response to starvation	Cluster 12	5
+665	Secondary alcohol metabolic process	Cluster 4	6
+671	Signal transduction	Cluster 4	7
+678	Signaling	Cluster 4	11
+679	Signaling	Cluster 6	11
+689	Small molecule biosynthetic process	Cluster 2	22
+690	Small molecule biosynthetic process	Cluster 9	22
+693	Small molecule biosynthetic process	Cluster 31	22
+711	Small molecule catabolic process	Cluster 9	10
+716	Small molecule catabolic process	Cluster 2	10
+721	Ubiquitin-dependent protein catabolic process	Cluster 4	7
+728	Vacuole organization	Cluster 12	6
+734	Vesicle-mediated transport	Cluster 12	14
+735	Vesicle-mediated transport	Cluster 6	14
+738	Vesicle-mediated transport	Cluster 5	14

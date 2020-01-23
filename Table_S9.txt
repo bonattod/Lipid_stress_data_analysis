@@ -1,0 +1,39 @@
+rownames(df_Cluster_all_wtc_CC2_analysis_selection_heatmap_1)	Description	Cluster	Freq
+1	Cytoplasmic vesicle	Cluster 8	7
+8	Endoplasmic reticulum membrane	Cluster 31	12
+13	Endoplasmic reticulum membrane	Cluster 1	12
+20	Endoplasmic reticulum part	Cluster 31	8
+28	Endoplasmic reticulum subcompartment	Cluster 31	12
+31	Endoplasmic reticulum subcompartment	Cluster 1	12
+40	Extrinsic component of membrane	Cluster 5	6
+41	Extrinsic component of membrane	Cluster 12	6
+46	Golgi apparatus	Cluster 5	9
+47	Golgi apparatus	Cluster 8	9
+55	Intracellular vesicle	Cluster 8	10
+59	Intracellular vesicle	Cluster 12	10
+65	Lipid droplet	Cluster 1	6
+66	Lipid droplet	Cluster 31	6
+71	Membrane protein complex	Cluster 8	14
+72	Membrane protein complex	Cluster 3	14
+75	Membrane protein complex	Cluster 5	14
+77	Membrane protein complex	Cluster 12	14
+85	Microbody	Cluster 2	6
+91	Mitochondrial envelope	Cluster 3	17
+94	Mitochondrial envelope	Cluster 23	17
+108	Mitochondrial matrix	Cluster 9	10
+118	Mitochondrial membrane part	Cluster 3	11
+129	Nuclear outer membrane-endoplasmic reticulum membrane network	Cluster 4	24
+130	Nuclear outer membrane-endoplasmic reticulum membrane network	Cluster 31	24
+136	Nuclear outer membrane-endoplasmic reticulum membrane network	Cluster 1	24
+143	Nuclear outer membrane-endoplasmic reticulum membrane network	Cluster 8	24
+153	Nucleoid	Cluster 9	7
+154	Nucleoid	Cluster 3	7
+160	Oxidoreductase complex	Cluster 9	6
+163	Oxidoreductase complex	Cluster 3	6
+166	Peroxisome	Cluster 2	8
+170	Peroxisome	Cluster 9	8
+174	Phagophore assembly site	Cluster 12	9
+178	Phagophore assembly site	Cluster 8	9
+183	Phagophore assembly site membrane	Cluster 12	7
+190	Vesicle	Cluster 8	10
+191	Vesicle	Cluster 12	10
